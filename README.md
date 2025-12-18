@@ -6,7 +6,7 @@ A curated list of awesome academic economics resources, from foundational princi
 
 > [!IMPORTANT]
 >
-> 한국에서 공부하면서 모았던 자료들을 주로 공유합니다. 한국인들의 대학생활에 맞춰서 적용되어있습니다.
+> 개인적인 추천자료를 기준으로 작성되었습니다. 
 >
 > 주로 한국의 대학생활에 맞추나, 학교생활 하면서 부족했던 공부내용을 연구실에서 보충하고 여러 프로젝트를 하며 공부한 내용을 함께 작성되어 있습니다.
 
@@ -15,31 +15,48 @@ A curated list of awesome academic economics resources, from foundational princi
 
 ---
 
-## 🚀 0. 연구 기본기 (Academic Foundations & Toolkit)
+## 프로젝트 매니징 추천 책
 
-경제학 공부 이전에 필요한, 성공적인 연구를 위한 기초 체력입니다.
-
-### 0.1. 논리와 비판적 사고 (Logic & Critical Thinking)
-* [교재][KR] [논리학 입문](link) - (e.g., )
-* [Book][EN] [A Rulebook for Arguments](link) - by Anthony Weston.
-* [Book][EN] [Thinking, Fast and Slow](link) - by Daniel Kahneman.
-
-### 0.2. 학술적 글쓰기 (Academic Writing & Style)
-* [교재][KR] [대학 글쓰기](link) - (e.g., )
-* [교재][KR] [경제학적 글쓰기](link) - (e.g., 경제학도를 위한 보고서/논문 작성법 자료)
-* [Book][EN] [The Elements of Style](link) - by Strunk and White. (영어 글쓰기의 바이블)
-* [Book][EN] [Style: Lessons in Clarity and Grace](link) - by Joseph M. Williams.
-* [Guide][EN] [Deirdre McCloskey's "Economical Writing"](link) - (경제학 글쓰기 필독 자료)
-
-### 0.3. 연구 관리 및 도구 (Research & Writing Tools)
-* **LaTeX:**
-    * [Guide][KR] [김도현의 LaTeX 입문](link) - (한국어 LaTeX 입문 자료)
-    * [Tool][EN] [Overleaf](link) - Online LaTeX editor. (논문 작성 표준)
-    * [Guide][EN] [Learn LaTeX in 30 minutes](link)
-* **Citation & Reference (참고문헌 관리):**
-    * [Tool] [Zotero](link) - (무료, 강력 추천)
-    * [Tool] [EndNote](link)
-    * [Guide][KR] [Zotero/EndNote 사용법](link)
-    * [Guide][EN] [Chicago Manual of Style (Economics Standard)](link)
-
-
+- The Goal: 생산관리에 있어서 제약을 가지고 다루는 비지니스 소설책, 이해하기 쉬우면서 케이스 스터디를 찾기 좋은 명저 주로 Theory of Constaraints 를 푸는 방식으로 진행되는 내용 
+- The Phoenix Project : The Goal의 IT 주제를 기준으로 다룬 책 - 주로 FLOW를 어떻게 개선할것인지가 주체
+- The Unicorn Project : 피닉스 프로젝트 랑 비슷하지만, 실무 즉 직원(개발자) 정도에서 실패하는 부분을 조금 보완할 수 있는 책 , 생산성과 아키텍처의 현장 중요성을 다시한번 알게 해주는 스토리 책
+- Team Topologies : Conway's 법칙 시스템 설계는 그조직의 의사소통 구조를 복제한다라는 개념을 가지고, 조직구조에 대한 내용이 담겨있는 철학적인 책이다. 팀에 대한 이해를 높일수 있다.
+- Accelerate, The Science of Lean Software and DevOps: Building and Scaling High Performing Technology : Dora Matrix 같은 내용, 아직 한국에는 잘 소개되진않지만 DevExperience 기준에서 잘 읽어본 책
+- The SPACE of Developer Productivity : ACM Queue 에 올라온 MS 등등이 개발자들의 생산성에 대해서 논의한 부분
+- Critical Chain by Goldratt : 구조적 모순에 대한 CPM 메서드의 방식의 수정방안에 대해서 논의하는 책
+- It's not luck :  이책은 The Goal 의 내용이 경영진의 단계에서 시장에서의 제약 조건에 대해서논하고 , 인과관계 등을 논의하는 책
+- The Deadline by Tom Demarco : 고전이지만 브룩스의 법칙에 대해서 소설로 풀어낸 책
+- The Five Dysfunctions of a Team by Patrick Lencioni :  인적 조직에 대해서 다시한번 고민해볼수 있는 신뢰라는개념의 팀에서의 구조적 스토리를 담고 있다.
+- The Fifth Discipline by peter Senge : 주로 시스템 사고에대해서 다루는책인데, 페턴과 구조라는 개념을 이야기하고 시스템 다이내믹스에서 다루는 피드백 루프적 구조로 근본 방향에 대해서 알려고 노력하는책
+- The Pyramid Principle : 바바리민토의 논리적구조, 너무나 유명한 책이지만 다들 몇장읽고 관두는 책이기도 하다. 그냥 이책에 소개된 MECE만 어디서 피피티로 보고 말하는사람들이 많지만 정독해야만 그 이면을 알 수 있는 책
+- The McKinsey Way / mind : 두권의 책이고 너무 고전이지만 실무적으로 보기 좋은 책 컨설팅이 아니라, 회사가어떻게 되어있는가를 외부에서 빠르게 알아가는 방식 침투적 방식에 대해서 논의하고있다.
+- Valuation: Measuring and Managing the Value of Companies : 항상 경제학의 내용상 대부분 양손잡이적 특성이 있어 주로 책에 있는걸 현실에서 사용하는 결정 적 수단으로 사용하기 어렵다면, 이책으로 기업의 가치에 대한 부분만 집중적으로 학습하는것이 좋다. 가치라는개념을 어떻게 비지니스활동에 대한 설명과 그 연결성을 어떻게 수치화해서 설명하거나 팀을 이해시킬지를 위한 책
+- Competitive Advanctage : 포터의 사상 이해 - 이말로 대부분의 내용은 함축해도 된다고 생각한다 .
+- Say It With Charts : 어떤 그래프가 시각적 프레임워크인가를 고전적으로 쉽게 다룬다.
+- 가설이 무기가 된다 , 로지컬 띵킹 : BCG 그룹의 전설적인 일본의 장표계 스타일의 정수의 방법론 현상- 원인 -해결 방식을 잘 설명하는책
+- Crossing the Chasm : 경제학에도 큰 내용으로 다가올만한책, 캐즘의 현상, 제품의 희소성이 작동하지 않음을 보이면서, 소비자 심리라는 것에 대해서 논의핤 있고, 기술기반 사업에 있어 읽어봐야할 책
+- The Innovator's Dilemma : 큰기업과 작은기업간의 차이와 판단성에 대해서 읽어볼만한책, 거시적 동력보다 미시적 구조와 시장구조에 대해서 관심가지기 좋은 입문서
+- Platform Revolution : 주로 네트워크 과학을 공부하면서 추천받아 읽은 책, 가치 사슬의 영역과 가치가 가격으로 반영되는것에서 생태계를기준으로하여 비지니스의 이동에 대해서 전체적인 패러다임의 변화를설명하는책
+- Storytelling with Data by Cole Nussbaumer Knaflic: 강조의 개념과 실무적 지식이 많다.
+- Slide:ology  ,Resonate : 시각적문법에 대한 책
+- The Back of the Napkin : 비주얼 띵킹에 대해서 왜다들 메모패드를 찢어쓰는가. 어떻게 그게 디지털 예쁘게 작성한 글보다 더 사고에 도움이 되는가에 대해서 논하는 책
+- Rapid Development : PM 으로 일하면서 이해하느려고 고생한책 왜 일정개발에 대해서 수치적 방식의 일편적 적용으로 모델링하여 실행시키는게 얼마나 현장과 동떨어지는일이고, 인간을 기게처럼 보게하는지 설명하는 책
+- Agile Estimating and Planning by mike Cohn: 실제 업무의 속도, 즉 애자일에서 말하는 속도라는 측면이 도데체 무엇인가에 대해서 논하는 책
+- Waltzing with Bears : 리스크의 현실적 분석을 어떻게 사용해야하는지 리스크를 가지고 가는것의 의미가 무엇인지를 논하는 책
+- Gamestorming : 실제 팀 빌딩이후에 어떻게 워크숍을 구성할것인지, 팀원들과의 툴을 통해서 어떻게 소통해나갈것인지 보여주는 좋은 책
+- 정주영의 경영론 책들 : 정주영 회장의 리스크 관리에 대해서 한국의 재벌주의과정에서 어떤 것을 프로젝트가 요구받았는지 과거를 알아볼 수 있는 좋은책
+- KDI 경제발전사 아카이브: [국가기록원](https://theme.archives.go.kr/next/economicDevelopment/viewMain.do)에도 있고 한국 전자서비스가 잘되어있어서 https://www.kdevelopedia.org/ 에서 봐도 되는 부분이다. 주로 한국의 경제개발 5주년과 왜 한국이 이렇게 빨리 성장동력이 있었는지 경제견인에 대해서 다양한자료를 한국이 발간하므로 KDI 뿐만 아니라검색 통해서 알아가보면 좋을것같다. 
+- 소프트웨어사업 대가산정가이드 : 한국소프트웨어산업협회가 이전부터 정보사업할때 측정했던 원가용, [가이드](https://www.sw.or.kr/site/sw/ex/board/List.do?cbIdx=276)는 매년 개정되므로 찾으면 나온다. 해외프로젝트에서는 주로 Fuction Point이나 Value 라는 측정값을 서로 주장해서 가격결정기준을 협상하는데 이르지만, 한국은 몇명이 투입되는가 라는 측정으로 Headcount 방식으로 개발을 이끌었다. 한국식 인원관리및 납기를 "직원" 이없으면 안된다라는 문화가 생겼는지 알수 있고, 노동시장의 특이점도 탐구해볼만한 주제글이다.
+- NIA 정보화사업관리 매뉴얼 및 감리기준 : 한국에서 감리제도에 대한 Trust 개념이 아닌 vartified 라는개념으로 작업이 진행되어왔고, [NIA자료실](https://www.nia.or.kr/site/nia_kor/ex/bbs/List.do?cbIdx=99852)에서 찾아서 하나씩 확인해보면 좋다.
+- CBD 방법론산출물가이드: 대부분의한국사업은 공고와 전문 컨설팅업체와의 협력을 통해서 방법을 모색한다. 대체적으로 이자료는 [NIA자료실](https://library.nia.or.kr/library/10310/contents/7051358)에 있으며 다양한 NIA의 발간물도 읽어보는게 도움이 된다.
+- 초격차 : 권오현의 대기업의 사일로제거를 위한 TF 구성에 대해서 논의하는 부분이다.
+- 경부고속도로 건설백서 : 한국의 스케줄 개념의 도입과정을 고민해볼수 있는 자료
+- 삼성 신경영 백서 : 불량률이라는 process 기반의 제조업기반시설에서의 경영 에 대해서 이해해볼수 있는 책
+- 정보시스템 감리 기준 : 한국이 왜이렇게 문서에 집착하고, 매니징도 문서로 하게 되었는지 왜 MM 방법론으로 제조업기반으로 수확체감의법칙을 소프트웨어에 적용하여서 수확체증이 아닌 수확체감의 법칙을 이루는 방법을 어떻게 구조화하였는지, 성공경험의 일체화라는 시대적 광기? 혹은 태도 에 대해서 SW 에 대한 정책과 산업에 대한 정부의 시각을 엿볼수 있는 자료 + 소프트웨어진흥법 
+- 인공지능기본법: 아직 잘 모르겠는 법, 초거대 AI 에  대한 개념을 사회적으로 정의하여 다루고싶은 것인지, 과거의 경제성장개념에서 벗어나지 못한 개발도상국적 제도주의를 지속적으로산업에도 도입시키려고하는지에 대해서 아직 논의가 많이 되어야할 국가가 내딘 한발.
+- 전자정부 11대 과제, Cyber Korea 21: IMF 사태이후에 정부가 세계로 부터 요구받은 공공부문에 대한 효율성과 투명성에 대한 압박의 형태의 구현점, 대면행정의 비리를 없애려고하는 형태를 추구하여, 전자정부의 기록화와 전산화 실시간이라는개념을 이루고 싶었던 시도, SI 사업의 역사에 대해서  자세히 논의해볼주제 CBD 방법론 위의 내용을 좀더 역사적으로 이해해야할 지점
+- 창조경제, 소프트웨어 산업 진흥법 개정, 4차 산업혁명 위원회 : 2000년대의 시스템 변화 이해 , 중소기업들의 발전에 대한 사회적 역할에 대해서 경제학적으로 탐구해볼만한 순간이었음. 
+-  디지털 뉴딜, 디지털 플랫폼 정부(DPG) : SI 구축의형태가 아니라 SaaS 로의 형태를 현재 진행중인 애매모호한 국가 전략 , 아직결로닝 나지 않아 평가하기 힘듬. 
+- 국가법령정보센터  : 예산안 편성 및 기금운용계획안 작성지침, 용역계약일반조건, 협상에 의한 계약체결기준 등 참고해야할 부분, 한국에서의.. 
+- IT 및 관리 표준 (행정안전부 & NIA) : 정보시스템 구축·운영 지침,SW사업 대가산정 가이드, 전자정부 표준 프레임워크 호환성 가이드 등을 볼수 있는 [행안부](https://www.mois.go.kr/) 및 NIA 사이트 참조
+- 나라장터: [나라장터](https://www.g2b.go.kr/) 사이트에서는 주로 RFP 참조하거나 사업들 시행계획을 국가가 어떻게 먼저 가져가는지 분야별로는 어느분야가 아직도 국가주도로부터 독립되지 않았는지 인사이트를 얻을수있는 사이트 
