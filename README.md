@@ -45,6 +45,8 @@ A curated list of awesome academic economics resources, from foundational princi
 - Waltzing with Bears : 리스크의 현실적 분석을 어떻게 사용해야하는지 리스크를 가지고 가는것의 의미가 무엇인지를 논하는 책
 - Gamestorming : 실제 팀 빌딩이후에 어떻게 워크숍을 구성할것인지, 팀원들과의 툴을 통해서 어떻게 소통해나갈것인지 보여주는 좋은 책
 - 정주영의 경영론 책들 : 정주영 회장의 리스크 관리에 대해서 한국의 재벌주의과정에서 어떤 것을 프로젝트가 요구받았는지 과거를 알아볼 수 있는 좋은책
+
+## 한국식 프로젝트 관리론 사이트 및 아카이브 
 - KDI 경제발전사 아카이브: [국가기록원](https://theme.archives.go.kr/next/economicDevelopment/viewMain.do)에도 있고 한국 전자서비스가 잘되어있어서 https://www.kdevelopedia.org/ 에서 봐도 되는 부분이다. 주로 한국의 경제개발 5주년과 왜 한국이 이렇게 빨리 성장동력이 있었는지 경제견인에 대해서 다양한자료를 한국이 발간하므로 KDI 뿐만 아니라검색 통해서 알아가보면 좋을것같다. 
 - 소프트웨어사업 대가산정가이드 : 한국소프트웨어산업협회가 이전부터 정보사업할때 측정했던 원가용, [가이드](https://www.sw.or.kr/site/sw/ex/board/List.do?cbIdx=276)는 매년 개정되므로 찾으면 나온다. 해외프로젝트에서는 주로 Fuction Point이나 Value 라는 측정값을 서로 주장해서 가격결정기준을 협상하는데 이르지만, 한국은 몇명이 투입되는가 라는 측정으로 Headcount 방식으로 개발을 이끌었다. 한국식 인원관리및 납기를 "직원" 이없으면 안된다라는 문화가 생겼는지 알수 있고, 노동시장의 특이점도 탐구해볼만한 주제글이다.
 - NIA 정보화사업관리 매뉴얼 및 감리기준 : 한국에서 감리제도에 대한 Trust 개념이 아닌 vartified 라는개념으로 작업이 진행되어왔고, [NIA자료실](https://www.nia.or.kr/site/nia_kor/ex/bbs/List.do?cbIdx=99852)에서 찾아서 하나씩 확인해보면 좋다.
@@ -60,3 +62,8 @@ A curated list of awesome academic economics resources, from foundational princi
 - 국가법령정보센터  : 예산안 편성 및 기금운용계획안 작성지침, 용역계약일반조건, 협상에 의한 계약체결기준 등 참고해야할 부분, 한국에서의.. 
 - IT 및 관리 표준 (행정안전부 & NIA) : 정보시스템 구축·운영 지침,SW사업 대가산정 가이드, 전자정부 표준 프레임워크 호환성 가이드 등을 볼수 있는 [행안부](https://www.mois.go.kr/) 및 NIA 사이트 참조
 - 나라장터: [나라장터](https://www.g2b.go.kr/) 사이트에서는 주로 RFP 참조하거나 사업들 시행계획을 국가가 어떻게 먼저 가져가는지 분야별로는 어느분야가 아직도 국가주도로부터 독립되지 않았는지 인사이트를 얻을수있는 사이트 
+- [PRISM 정책연구관리시스템](https://www.prism.go.kr) : 정부 발주용역 컨설팅 전략수립보고서 공부용
+- [Open.go.kr](https://www.open.go.kr/) : 착수 및 실행 중간결과등등 확인할수 있는 부분 사업시행과정 을 알 수 있는 데이터
+- [지방공기업 경영정보공개시스템](https://www.cleaneye.go.kr/) : 지방공기업들 사업 현황 중간확인 - 경제지표보다 중간에 먼저 예측해보기 좋음
+- [공공기관 경영정보](https://www.alio.go.kr/) : 알리오, 경영정보 시스템 거버넌스 알기 좋음
+- [감사원](https://www.bai.go.kr/bai/) :감사원의자료는 실패보고서 등등을 확인해서 어떠 부분을 유념할지 생각해보는 차원에서 보는 부분 
