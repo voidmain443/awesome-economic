@@ -20,18 +20,33 @@ A curated list of awesome academic economics resources, from foundational princi
 ------------------------
 
 ### 경제학원론 
-현대 경제학 원론 
+현대 경제학 원론 : 
+
 
 
 ### 미시경제학 
+hal varian : 
 
 
 ### 거시경제학 
 
 
+
+### 경제수학 
+수학 기초 부분 : https://tutorial.math.lamar.edu/
+삼각함수 기초 : https://www.youtube.com/playlist?list=PLoBaXWXBi2d4g0eTnAvk3lMJdh0CaMvC6
+
+
+
+### 해석학 
+해석학 : https://math.hmc.edu/su/math131/
+
 ## Online Resource for Hard Learners 
 -----------------------------
 [CORE Econ](https://www.core-econ.org/) : 경제학의 실질적 현대적 방식으로 쓰인 고전 텍스트북 에서 벗어난 경재학 교재, 독학하기에도 좋고 데이터를 찾아보면서 근래의 경제학이 풀어야할 문제에 대해서 논의해보기 좋은 프로젝트이다. 각 부분별로 교재를 온라인으로 오픈되어있어 다시금 경제학을 배운다면 꼭 볼 소스 
+
+이준구 교수님 홈페이지 글들 : 경제학자가 가져야할자세 등등이 나와있고 좋은 소스들과 읽어볼 자료들도 올려놓아주셨다. 
+
 
 
 ## Papers and books you must Read (P&BUMR) 
