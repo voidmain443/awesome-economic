@@ -135,7 +135,7 @@ Miranda Fricker, Epistemic Injustice (2007): 경제학 책은 아니지만, 현�
 
 
 ### 프로젝트 매니징 추천 책
-
+- 1page proposal : 한페이지에 어떻게 담을것인가 ?
 - The Goal: 생산관리에 있어서 제약을 가지고 다루는 비지니스 소설책, 이해하기 쉬우면서 케이스 스터디를 찾기 좋은 명저 주로 Theory of Constaraints 를 푸는 방식으로 진행되는 내용 
 - The Phoenix Project : The Goal의 IT 주제를 기준으로 다룬 책 - 주로 FLOW를 어떻게 개선할것인지가 주체
 - The Unicorn Project : 피닉스 프로젝트 랑 비슷하지만, 실무 즉 직원(개발자) 정도에서 실패하는 부분을 조금 보완할 수 있는 책 , 생산성과 아키텍처의 현장 중요성을 다시한번 알게 해주는 스토리 책
