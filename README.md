@@ -19,30 +19,30 @@ A curated list of awesome academic economics resources, from foundational princi
 ## TextBook 
 ------------------------
 ### 글쓰기 및 기초 교양 서적   
-코어논리학 이병덕 저: 논리적추론과 증명의 이후 판, 이병덕 교수님의 논리학 책은 술어 논리 , 기호논리 등의 기초적인 부분을 다루며, 기본적인 상상가능한세계에 입각한 이론으로 논리학적 증명 방법들  
-LaTeX 작성방법 및 세미나 훈련자료 : [세미나 사이트](https://sites.google.com/view/a-30-year-journey/)  
-두뇌보완계획 : 100,200,등 [책](https://product.kyobobook.co.kr/detail/S000213035505) 시리즈는 논리적 읽기나 글에 있어서 다양한 자료들에 대해서 읽기 능력이 스스로 빠르지 못하거나 숙련이 필요하다면 읽을 자료중에서 내가 느끼기엔 가장 좋은자료들이다.   
-프랑스 경제사회 통합교과서: 프랑스 고등학교 2학년이 읽는 교과서로 알고있다. 한국에서의 지식분리주의와는 다른 맛으로, 다양한 질문을 통해서 바칼로레아적 문제들을 제기해주고 글쓰기를 해볼수 있는 구성이여서 한국의 5지선다형 외우기 시험과는 다른 형태로 교재를 공부해볼수 있다. 글쓰기를 위해서라도 한번은 더 보고,경제와 사회학이 독립적이지 않고 정치학도 독립적이지 않다는 점으로 학문별 분리주의가가 강한 한국풍토에서 다시금 경제학에 대해서 대학교육에 입문하기전, 스스로 고민해봐야하는 주제가 무엇인지 생각해보게 해줄 교재다.  
-The Student's Guide to Writing Economics(Robert H. Neugeboren):  학부생때 경제학적으로 질문을 던지고 어떻게 데이터를 찾을 것인지 가이드해주는 글쓰기 책   
-How to Write About Economics and Public Policy (K.P. Koford, S.S. Ederington):   비전문가에게 혹은 이해관계자들을 위해서 어떻게 memo Wirting을 작성할수 있을까 ? 라는 부분에 답을 해주는 책, 에세이를 잘쓰기 위해서 읽어보면 좋다.   
+- 코어논리학 이병덕 저: 논리적추론과 증명의 이후 판, 이병덕 교수님의 논리학 책은 술어 논리 , 기호논리 등의 기초적인 부분을 다루며, 기본적인 상상가능한세계에 입각한 이론으로 논리학적 증명 방법들  
+- LaTeX 작성방법 및 세미나 훈련자료 : [세미나 사이트](https://sites.google.com/view/a-30-year-journey/)  
+- 두뇌보완계획 : 100,200,등 [책](https://product.kyobobook.co.kr/detail/S000213035505) 시리즈는 논리적 읽기나 글에 있어서 다양한 자료들에 대해서 읽기 능력이 스스로 빠르지 못하거나 숙련이 필요하다면 읽을 자료중에서 내가 느끼기엔 가장 좋은자료들이다.   
+- 프랑스 경제사회 통합교과서: 프랑스 고등학교 2학년이 읽는 교과서로 알고있다. 한국에서의 지식분리주의와는 다른 맛으로, 다양한 질문을 통해서 바칼로레아적 문제들을 제기해주고 글쓰기를 해볼수 있는 구성이여서 한국의 5지선다형 외우기 시험과는 다른 형태로 교재를 공부해볼수 있다. 글쓰기를 위해서라도 한번은 더 보고,경제와 사회학이 독립적이지 않고 정치학도 독립적이지 않다는 점으로 학문별 분리주의가가 강한 한국풍토에서 다시금 경제학에 대해서 대학교육에 입문하기전, 스스로 고민해봐야하는 주제가 무엇인지 생각해보게 해줄 교재다.  
+- The Student's Guide to Writing Economics(Robert H. Neugeboren):  학부생때 경제학적으로 질문을 던지고 어떻게 데이터를 찾을 것인지 가이드해주는 글쓰기 책   
+- How to Write About Economics and Public Policy (K.P. Koford, S.S. Ederington):   비전문가에게 혹은 이해관계자들을 위해서 어떻게 memo Wirting을 작성할수 있을까 ? 라는 부분에 답을 해주는 책, 에세이를 잘쓰기 위해서 읽어보면 좋다.   
 
 ### 글쓰기 및 기본 서적   
-A Guide for the Young Economist : 논문심사를 대응하기 위한 교재, 논문을 쓰는 기본부터 태도 및 심사보고서작성법 등 어떤 완결이 필요한지 설명하는 책 
-Economical Writing, Third Edition :  설득을 위한 글을 쓰기 위한 책 어떻게 글을 써야 사람들이 쉽게 이해할지에 대해서 고민일 때 ,나의 아이디어를 어떻게 쉽게 이해할수 있게 전달할지 고민될 때 쓰는 책 
-Style: Lessons in Clarity and Grace (Joseph M. Williams) : 인지심리학으로 어떻게 문장을 사람들이 어렵게 느끼는징 대해서 분석한 책, 경제학으로의 책들이 주로 가지는 Nominaliztion 형태의 글쓰기가 왜 일반인들이 이해하기 어려운지 설명한 책, 대체적으로 이책은 대화할때 조금이라도 사람들이 이해하게 하기 위해서 읽고 스스로의 말하기를 바꾸기 좋은 책.   
+- A Guide for the Young Economist : 논문심사를 대응하기 위한 교재, 논문을 쓰는 기본부터 태도 및 심사보고서작성법 등 어떤 완결이 필요한지 설명하는 책 
+- Economical Writing, Third Edition :  설득을 위한 글을 쓰기 위한 책 어떻게 글을 써야 사람들이 쉽게 이해할지에 대해서 고민일 때 ,나의 아이디어를 어떻게 쉽게 이해할수 있게 전달할지 고민될 때 쓰는 책 
+- Style: Lessons in Clarity and Grace (Joseph M. Williams) : 인지심리학으로 어떻게 문장을 사람들이 어렵게 느끼는징 대해서 분석한 책, 경제학으로의 책들이 주로 가지는 Nominaliztion 형태의 글쓰기가 왜 일반인들이 이해하기 어려운지 설명한 책, 대체적으로 이책은 대화할때 조금이라도 사람들이 이해하게 하기 위해서 읽고 스스로의 말하기를 바꾸기 좋은 책.   
 
 
-[TIKZ for Latex](https://kochiuyu.github.io/tikz/tikz-cookbook/) : TIKZ로 아직 그림을 그리는사람들이 있다. 조교 및 LAtex으로 이미 작성되어있는 표등을 수정해야할때, 파이썬으러 하는사람들도 생기지만 아직 많이쓰는 Latex용 사고시각화 연습용 Cookbook.  
-beamer 사용법 책 - 
+- [TIKZ for Latex](https://kochiuyu.github.io/tikz/tikz-cookbook/) : TIKZ로 아직 그림을 그리는사람들이 있다. 조교 및 LAtex으로 이미 작성되어있는 표등을 수정해야할때, 파이썬으러 하는사람들도 생기지만 아직 많이쓰는 Latex용 사고시각화 연습용 Cookbook.  
+- beamer 사용법 책 - 
 
 
 ### 경제학원론 
-현대 경제학 원론 3인공저 -> 이후 nth 판 : 표지가 빨간 시대의 책을 1학년부터 4학년때가지 끼고 있었는데, 중심을 잘 잡게 도와준 책 
+- 현대 경제학 원론 3인공저 -> 이후 nth 판 : 표지가 빨간 시대의 책을 1학년부터 4학년때가지 끼고 있었는데, 중심을 잘 잡게 도와준 책 
 
 
 
 ### 미시경제학 
-hal varian : 
+- hal varian : 
 
 
 ### 거시경제학 
@@ -50,40 +50,40 @@ hal varian :
 
 
 ### 경제수학 
-김성현 저 경제수학강의 nth 판  : Pre course 형태로 대학에 들어가기전에 경제수학을 독학할 수 있도록 해주는 좋은 교재, 만약 이공계가 아니라서 고등학교때 수학을 약하게 공부했다면, 최소한의 지식으로 방학때 Camp 형식으로 공부하고 대학에 입학하는것이 중요해보인다. 대학교 경제학이 다룰 대부분의 편미분 부터 선형대수 일부를 커버하지만, 해석학적 내용이나 게임이론의 적용 자체는 어려운상태로 고등학교를 졸업하고,AP 수업을 듣거나할 때 좋을 것 같다. 1학년때 2판을 사용했다.   
+- 김성현 저 경제수학강의 nth 판  : Pre course 형태로 대학에 들어가기전에 경제수학을 독학할 수 있도록 해주는 좋은 교재, 만약 이공계가 아니라서 고등학교때 수학을 약하게 공부했다면, 최소한의 지식으로 방학때 Camp 형식으로 공부하고 대학에 입학하는것이 중요해보인다. 대학교 경제학이 다룰 대부분의 편미분 부터 선형대수 일부를 커버하지만, 해석학적 내용이나 게임이론의 적용 자체는 어려운상태로 고등학교를 졸업하고,AP 수업을 듣거나할 때 좋을 것 같다. 1학년때 2판을 사용했다.   
 
-수학 기초 부분 : https://tutorial.math.lamar.edu/  
-삼각함수 기초 : https://www.youtube.com/playlist?list=PLoBaXWXBi2d4g0eTnAvk3lMJdh0CaMvC6
-선형대수학: 
-미적분학: 
-해석학: 
-대수학: 
-수리논리학: 
+- 수학 기초 부분 : https://tutorial.math.lamar.edu/  
+- 삼각함수 기초 : https://www.youtube.com/playlist?list=PLoBaXWXBi2d4g0eTnAvk3lMJdh0CaMvC6
+- 선형대수학: 
+- 미적분학: 
+- 해석학: 
+- 대수학: 
+- 수리논리학: 
 
 
 ### 해석학 
-해석학 : https://math.hmc.edu/su/math131/
+- 해석학 : https://math.hmc.edu/su/math131/
 
 
 
 ### 시스템사고 
-시스템 사고 빌딩 및 파이썬 실습 : [사이트](https://teachyourselfsystems.com/) 참고 시스템 종류들과 이를 어떻게 파이썬으로 시스템을 시뮬레이션 할지에 대해서 나와 있는 수업 링크 자료   
-시스템 구성하는 툴 : [시스템 코딩 툴](https://machinations.io/) 으로 만들려고하느 시스템 실습 해볼수 있음. 현재 Vensim이랑 비슷하면서도 다른 느낌. 
-컴퓨터기반 시스템 구성 : 좋은 자료 https://sdgamesonline.com/our-games  
-Python 기반 시뮬레이션 공부자료 BPTK-Py  : https://bptk.transentis.com/  
-시스테 다이내믹스 가이드 : https://pressbooks.lib.jmu.edu/sdlearningguide/  
-Vensim 가이드 : https://vensim.com/  
+- 시스템 사고 빌딩 및 파이썬 실습 : [사이트](https://teachyourselfsystems.com/) 참고 시스템 종류들과 이를 어떻게 파이썬으로 시스템을 시뮬레이션 할지에 대해서 나와 있는 수업 링크 자료   
+- 시스템 구성하는 툴 : [시스템 코딩 툴](https://machinations.io/) 으로 만들려고하느 시스템 실습 해볼수 있음. 현재 Vensim이랑 비슷하면서도 다른 느낌. 
+- 컴퓨터기반 시스템 구성 : 좋은 자료 https://sdgamesonline.com/our-games  
+- Python 기반 시뮬레이션 공부자료 BPTK-Py  : https://bptk.transentis.com/  
+- 시스테 다이내믹스 가이드 : https://pressbooks.lib.jmu.edu/sdlearningguide/  
+- Vensim 가이드 : https://vensim.com/  
 
 
 
 
 ## Online Resource for Hard Learners 
 -----------------------------
-[CORE Econ](https://www.core-econ.org/) : 경제학의 실질적 현대적 방식으로 쓰인 고전 텍스트북 에서 벗어난 경재학 교재, 독학하기에도 좋고 데이터를 찾아보면서 근래의 경제학이 풀어야할 문제에 대해서 논의해보기 좋은 프로젝트이다. 각 부분별로 교재를 온라인으로 오픈되어있어 다시금 경제학을 배운다면 꼭 볼 소스 
+- [CORE Econ](https://www.core-econ.org/) : 경제학의 실질적 현대적 방식으로 쓰인 고전 텍스트북 에서 벗어난 경재학 교재, 독학하기에도 좋고 데이터를 찾아보면서 근래의 경제학이 풀어야할 문제에 대해서 논의해보기 좋은 프로젝트이다. 각 부분별로 교재를 온라인으로 오픈되어있어 다시금 경제학을 배운다면 꼭 볼 소스 
 
-[Economic essay metarials](https://www.economicsnetwork.ac.uk/) :
+- [Economic essay metarials](https://www.economicsnetwork.ac.uk/) :
 
-이준구 교수님 홈페이지 글들 : 경제학자가 가져야할자세 등등이 나와있고 좋은 소스들과 읽어볼 자료들도 올려놓아주셨다. 
+- 이준구 교수님 홈페이지 글들 : 경제학자가 가져야할자세 등등이 나와있고 좋은 소스들과 읽어볼 자료들도 올려놓아주셨다. 
 
 
 
@@ -92,19 +92,19 @@ Vensim 가이드 : https://vensim.com/
 
 ## Papers and books you must Read (P&BUMR) 
 ------------------------
-Daniel Hausman, The Philosophy of Economics: An Anthology (2007): 밀, 로빈스, 프리드먼부터 현대 방법론까지 경제철학의 핵심 원전들을 망라한 필수 앤솔로지.
+- Daniel Hausman, The Philosophy of Economics: An Anthology (2007): 밀, 로빈스, 프리드먼부터 현대 방법론까지 경제철학의 핵심 원전들을 망라한 필수 앤솔로지.
 
-Tony Lawson, Economics and Reality (1997): 주류 경제학의 비현실성을 존재론적 차원(폐쇄 체계 vs 개방 체계)에서 비판한 비판적 실재론의 역작.
+- Tony Lawson, Economics and Reality (1997): 주류 경제학의 비현실성을 존재론적 차원(폐쇄 체계 vs 개방 체계)에서 비판한 비판적 실재론의 역작.
 
-Deirdre McCloskey, The Rhetoric of Economics (1985): 경제학이 객관적 증명이 아닌 '설득의 수사학'임을 밝히며 경제학 방법론의 언어적 전환을 주도한 고전.
+- Deirdre McCloskey, The Rhetoric of Economics (1985): 경제학이 객관적 증명이 아닌 '설득의 수사학'임을 밝히며 경제학 방법론의 언어적 전환을 주도한 고전.
 
-Amartya Sen, On Ethics and Economics (1987): 경제학과 윤리학의 분리가 가져온 이론적 빈곤을 지적하며, 두 학문의 통합을 역설한 얇지만 깊은 책.
+- Amartya Sen, On Ethics and Economics (1987): 경제학과 윤리학의 분리가 가져온 이론적 빈곤을 지적하며, 두 학문의 통합을 역설한 얇지만 깊은 책.
 
-Nancy Cartwright, Hunting Causes and Using Them (2007): 물리학과 경제학의 모델링과 인과성 문제를 비교 분석하며, 'ceteris paribus' 법칙의 본질을 파헤친 과학철학서.
+- Nancy Cartwright, Hunting Causes and Using Them (2007): 물리학과 경제학의 모델링과 인과성 문제를 비교 분석하며, 'ceteris paribus' 법칙의 본질을 파헤친 과학철학서.
 
-W. Brian Arthur, Complexity and the Economy (2014): 균형 경제학을 넘어 복잡성 경제학이라는 새로운 패러다임의 이론적, 철학적 기초를 다룬 논문집.
+- W. Brian Arthur, Complexity and the Economy (2014): 균형 경제학을 넘어 복잡성 경제학이라는 새로운 패러다임의 이론적, 철학적 기초를 다룬 논문집.
 
-Miranda Fricker, Epistemic Injustice (2007): 경제학 책은 아니지만, 현재 경제학계의 지식 권력과 소외 문제를 이해하기 위해 필수적인 인식론적 틀을 제공하는 현대 철학의 명저.
+- Miranda Fricker, Epistemic Injustice (2007): 경제학 책은 아니지만, 현재 경제학계의 지식 권력과 소외 문제를 이해하기 위해 필수적인 인식론적 틀을 제공하는 현대 철학의 명저.
 
 
 ## 시대적 타임라인에 대한 논쟁 
