@@ -42,15 +42,39 @@ A curated list of awesome academic economics resources, from foundational princi
 
 
 ### 미시경제학 
-- hal varian : 
+미시경제학 교재들은 대체적으로 수학적 엄밀성 등을 요구하는 형태들이 많아 이론적 체계에서 전체적인 미시경제학의 수학적 프레임을 부정하지 않는 한 논리적 연결성과 수학적 엄밀성이 크게 요구되는 분위기이기 떄문에 크게 게임이론 책들이 아니라면 일반적인 미시경제학 저서들은  아래 교재정도가 주로 쓰이는것으로 알고있음.   
 
+- hal varian , intermediate Microeconomics :  학부 미시경제학시간의 주 교재들  가장 많이 사용하는 교재.
+- Economic Theory and Operations Analysis 
+**고급 미시** 
+-  Varian의 Microeconomic Analysis
+-  - Nicholson, Snyder : 
+- MWG의  Microeconomic Theory :  대배분의 대학원에서 사용하는 책 딱히 말할것이 없으면 여기있는 주제들을 교수님이 선택해서 보조자료들과 함께 고민해볼수 있는 논문과 함께 공부하기 좋은 책임.
+- Kreps의 Microeconomic Foundations :  가장 엄밀하게 잘 쓰인 교재, 1,2 부로 나뉘어져 있고 공부에 큰도움이 되는 책임. 
 
 ### 거시경제학 
-
-
+거시부분의 공부는 현재 내가 부족해서 정확히 말하기 어려워 주변에 자문을 구해 작성하였음. 거시쪽은 내전공이랑은 조금 거리가 멀고 연구주제에 있어 흥미가 많지 않아 주변인의 사견을 담아 이야기하자면, 
+거시경제학 텍스트는 아마도 [Stockey와 Lucas with Prescott](https://www.hup.harvard.edu/catalog.php?isbn=9780674750968) 또는 [Sargent와 Ljungqvist](https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/)으로 요즘쓰인다고 하며,  그러나 거시경제학 핵심 커리큘럼은 미시경제학 커리큘럼보다 훨씬 덜 표준화되어 있기에 각 각론에 좀더 집중하는것이 좋다는 의견이 많았음. 
+Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보충교재로 사용가능함. 
+- Romer, Advanced Macroeconomics; 또한 Campante, Sturzenegger 및 Velasco, Advanced Macroeconomics - an easy guide (LSE Press에서 무료로 다운로드 가능: [링크)](https://press.lse.ac.uk/site/books/m/10.31389/lsepress.ame/)
+ [Jehiel과 Reny](https://www.pearson.com/store/p/advanced-microeconomic-theory/P200000004552/9780273731917)
+ [Jonathan Levin의 강의 노트](https://web.stanford.edu/~jdlevin/teaching.html)
+  고급? 거시 
+- 아세모글루, *현대 경제 성장 입문*
+- 우드포드, *이자 및 가격*
+- 월시, *통화 이론 및 정책*
+- 갈리, *통화 정책, 인플레이션 및 경기 순환*
+- 시머, *노동 시장과 경기 순환*
+- 슈미트-그로헤와 우리베, *개방 경제 거시경제학*
+- 스타추르스키, *경제 역학: 이론 및 계산*
+- 카노바, *응용 거시 연구 방법론*
+- 데종과 데이브, *구조적 거시경제학*
 
 ### 경제수학 
 - 김성현 저 경제수학강의 nth 판  : Pre course 형태로 대학에 들어가기전에 경제수학을 독학할 수 있도록 해주는 좋은 교재, 만약 이공계가 아니라서 고등학교때 수학을 약하게 공부했다면, 최소한의 지식으로 방학때 Camp 형식으로 공부하고 대학에 입학하는것이 중요해보인다. 대학교 경제학이 다룰 대부분의 편미분 부터 선형대수 일부를 커버하지만, 해석학적 내용이나 게임이론의 적용 자체는 어려운상태로 고등학교를 졸업하고,AP 수업을 듣거나할 때 좋을 것 같다. 1학년때 2판을 사용했다.   
+ Hoy 외, 경제학을 위한 수학
+
+
 
 - 수학 기초 부분 : https://tutorial.math.lamar.edu/  
 - 삼각함수 기초 : https://www.youtube.com/playlist?list=PLoBaXWXBi2d4g0eTnAvk3lMJdh0CaMvC6
@@ -61,8 +85,126 @@ A curated list of awesome academic economics resources, from foundational princi
 - 수리논리학: 
 
 
+
 ### 해석학 
 - 해석학 : https://math.hmc.edu/su/math131/
+
+
+### 계량 경제학 
+입문: 
+제프리 M. 울드리지의 『계량경제학 입문: 현대적 접근법』,
+모리스 H. 드그루트와 마크 J. 셔비쉬
+의 『확률과 통계』, 아서 S. 골드버거의
+『계량경제학 개론』, 윌리엄 그린의 『계량경제
+분석』, 제프리 M. 울드리지의 『횡단면 및 패널 데이터의 계량경제 분석』,
+브루스 E. 한센의 『계량경제학』
+, PK 트리베디의 『미시계량경제학: 방법론 및 응용』,
+후미오 하야시 의 『계량경제학
+』, AW 반 데르 바르트의 『점근통계』,
+제임스 D. 해밀턴의 『시계열 분석』 ,
+알파 치앙의 『수리경제학의 기초 방법론』,
+조슈아 D. 앵그리스트와 요른-스테펜 피슈케의 『계량경제학 마스터하기: 원인에서 결과로 가는 길』
+
+- 한센, *확률 및 통계*
+- 한센, *계량경제학*
+- 스타추르스키, *계량경제학 이론 입문*
+- 루트케폴, *다중 시계열에 대한 새로운 소개*
+- 루트케폴과 킬리안, *구조적 벡터 자기회귀 분석*
+
+계량경제학 - 브루스 한센 저 (기초 학습을 위해 같은 저자의 '경제학자를 위한 확률 및 통계'도 참고하세요)
+
+계량경제학 - 하야시 후미오
+
+횡단면 및 패널 데이터의 계량경제학적 분석 - 제프리 울드리지
+
+분위수 회귀 분석 - 로저 코엔커
+
+에페 A. 오크 저, 『 경제 및 금융: 실증 분석과 경제 응용』
+, 키이스 필빔 저, 『경제와 금융 시장』
+
+### 경제 예측 시계열등 
+Rob J. Hyndman과 George Athanasopoulos의 예측: 원칙과 실제
+Walter Enders의 응용 계량경제 시계열 분석
+Graham Elliott, Clive W.J. Granger, Allan Timmermann의 경제예측
+John E. Hanke와 Dean W. Wichern의 예측: 기업 및 경제를 위한 안내서
+John E. Hanke의 경제 예측 입문
+
+### 계산경제학 
+계산경제학: 간략한 소개
+경제 모델링을 위한 계산 방법: 실용적인 접근법 (스탠 우랴세프 저)
+계산경제학과 금융: 모델링 및 분석 (레오니다스 G. 파파니콜라우 저)
+경제학의 수치 방법 (케네스 L. 주드 저)
+경제학을 위한 양적 방법 (SJ 컴비 저)
+
+### 게임이론 
+응용 경제학자를 위한 게임 이론 (로버트 S. 기번스 저),
+경매 이론의 실용화 (폴 밀그롬 저),
+양면 매칭: 게임 이론적 모델링 및 분석 연구 (앨빈 로스, 마릴다 소토마요르 공저)
+
+
+### 행동경제학 
+잘못된 행태: 행동경제학의 탄생 (리처드 H. 탈러 저)
+행동경제학: 심리학과 경제학의 충돌 (스콧 휴텔 저)
+행동경제학: 아주 짧은 입문 (데이드르 N. 맥클로스키 저
+) 행동경제학 가이드 (2018년판, 알랭 삼손 편집)
+넛지: 건강, 부, 행복에 대한 의사결정 개선 (리처드 H. 탈러, 캐스 R. 선스타인 공저)
+
+### 정치경제학
+제프리 A. 프리든, 데이비드 A. 레이크, 케네스 A. 슐츠 공저, 『정치경제학: 비교 접근법』
+찰스 K. 윌버 공저, 『개발과 저개발의 정치경제학』
+존 스튜어트 밀 공저, 『정치경제학 원리에 대한 탐구』
+폴 A. 바란 공저, 『성장의 정치경제학』 괴
+스타 에스핑-안데르센 공저, 『복지국가의 정치경제학』
+
+
+### 국제 경제학 
+(폴 크루그먼, 모리스 옵스트펠드 공저)
+국제 무역: 이론과 정책 (폴 크루그먼, 모리스 옵스트펠드, 마크 멜리츠 공저)
+국제 경제학: 이론과 정책 (제임스 거버
+공저) 국제 금융 관리 (철은, 브루스 레스닉 공저)
+세계 경제: 무역과 금융 (J. 피터 니어리 공저)
+
+### 공공경제학 (공공이론) 
+웨인 파슨스의 『공공 정책: 정책 분석 이론과 실제 입문』,
+데이비드 P. 마이엇의 『공공정책 경제학』,
+마이클 E. 크래프트와 스콧 R. 펄롱의 『공공정책: 정치, 분석 및 대안』,
+조너선 그루버의 『공공재정과 공공정책』,
+이언 고프의 『복지국가의 정치경제학』
+
+### 보건경제학
+(Peter Zweifel, Amanda R. Felder, ML Eisenhauer 공저) 보건경제학
+(Sherman Folland, Allen C. Goodman, Miron Stano 공저) 보건과 의료의학 경제학
+(James W. Henderson 공저) 보건경제학과 정책
+(Maureen Lewis 공저) 보건경제학 개론
+(Mark V. Pauly, Thomas G. McGuire, Pedro P. Barros 공저) 보건경제학 핸드북
+
+### 교통, 인프라 및 물류
+패트릭 S. 매카시의 『교통 경제학』, 
+패트릭 L. 앤더슨의『교통 경제학』, 
+앙드레 드 팔마, 로빈 린지, 에밀 퀴네의 『교통 경제학 핸드북』,
+데이비드 M. 길렌과 피터 W. 맥길리브레이의 『운송 부문 경제학』,
+데이비드 S. 에반스와 리처드 슈말렌시의 『화물 운송 경제학』
+
+### 산업조직론 
+티롤의 산업조직론 
+벨플람과 페이츠의 산업조직론 : 시장과 전략 
+모타의 경제정책:  이론 구체화 및 정책문제에서의 사용 
+가르세스, 데이비스 경쟁및 반독점 분석을 위한 양적 기법 : 경쟁 반독점관련 내용 깊이 있게 공부가능 
+
+
+### 에너지 경제론 
+에너지 경제학: 시장, 에너지, 그리고 환경 (수베스 C. 바타차리야 저)
+에너지와 환경의 경제학 (피터 M. 블랙 저)
+에너지 경제학과 환경 (제임스 B. 부시넬 저)
+미래를 위한 에너지: 새로운 의제 (마이클 SK 리 저)
+글로벌 에너지 경제학: 에너지와 환경 (마이클 브래드쇼 저)
+
+### 노동경제학 
+인적자본경제학 : 조지 J. 보르하스 저, 노동경제학
+브루스 E. 카우프만 저, 노동시장경제학
+로널드 G. 에렌버그와 로버트 S. 스미스 저, 노동경제학과 산업관계학
+게리 S. 베커 저, 인적자본: 교육을 중심으로 한 이론적 및 실증적 분석
+엘리아스 디노풀로스 저, 인적자본과 성장의 경제학
 
 
 
@@ -106,6 +248,26 @@ A curated list of awesome academic economics resources, from foundational princi
 
 - Miranda Fricker, Epistemic Injustice (2007): 경제학 책은 아니지만, 현재 경제학계의 지식 권력과 소외 문제를 이해하기 위해 필수적인 인식론적 틀을 제공하는 현대 철학의 명저.
 
+- 게임 이론 분야 논문 : 
+
+1944 : THeory of Games and Economic Behavior
+
+1951 : NOn Coorperative Games 
+
+1971: The Evolution of Reciprocal Altruism 
+
+1973: ESS The Logic of Animal Conflict 
+
+1982: Evolution and Theory of Games 
+
+1984: The Evolution of Coorperation 
+
+1992: Evolutionary Games and Spatial Chaos 
+제도 문화공진화 
+
+EGT + AI ML , Peplicator Dynamics RL , 경제시스템 규제 제도 허가 
+
+협업의 딜레마 
 
 ## 시대적 타임라인에 대한 논쟁 
 --------------------
