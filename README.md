@@ -227,8 +227,7 @@ John E. Hanke의 경제 예측 입문
 
 - 이준구 교수님 홈페이지 글들 : 경제학자가 가져야할자세 등등이 나와있고 좋은 소스들과 읽어볼 자료들도 올려놓아주셨다. 
 
-
-
+- Build your own x : https://build-your-own-x.vercel.app/ 
 
 
 
