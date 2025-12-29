@@ -229,7 +229,7 @@ John E. Hanke의 경제 예측 입문
 
 - Build your own x : https://build-your-own-x.vercel.app/ 
 
-
+- python for economist : https://aeturrell.github.io/coding-for-economists/intro.html
 
 ## Papers and books you must Read (P&BUMR) 
 ------------------------
