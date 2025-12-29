@@ -231,6 +231,8 @@ John E. Hanke의 경제 예측 입문
 
 - python for economist : https://aeturrell.github.io/coding-for-economists/intro.html
 
+- https://docs.jupyter.org/en/latest/
+
 ## Papers and books you must Read (P&BUMR) 
 ------------------------
 - Daniel Hausman, The Philosophy of Economics: An Anthology (2007): 밀, 로빈스, 프리드먼부터 현대 방법론까지 경제철학의 핵심 원전들을 망라한 필수 앤솔로지.
