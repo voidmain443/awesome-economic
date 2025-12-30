@@ -74,6 +74,7 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 - 김성현 저 경제수학강의 nth 판  : Pre course 형태로 대학에 들어가기전에 경제수학을 독학할 수 있도록 해주는 좋은 교재, 만약 이공계가 아니라서 고등학교때 수학을 약하게 공부했다면, 최소한의 지식으로 방학때 Camp 형식으로 공부하고 대학에 입학하는것이 중요해보인다. 대학교 경제학이 다룰 대부분의 편미분 부터 선형대수 일부를 커버하지만, 해석학적 내용이나 게임이론의 적용 자체는 어려운상태로 고등학교를 졸업하고,AP 수업을 듣거나할 때 좋을 것 같다. 1학년때 2판을 사용했다.   
  Hoy 외, 경제학을 위한 수학
 
+[math204](https://eml.berkeley.edu/~cshannon/) : 수학을 증명 등 좋은 렉쳐 노트 해석학적 가미 가있음. 
 
 
 - 수학 기초 부분 : https://tutorial.math.lamar.edu/  
@@ -84,6 +85,7 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 - 대수학: 
 - 수리논리학: 
 
+[convex theory](https://web.stanford.edu/~boyd/cvxbook/) : convex 관련 내용을 선형대수학적으로 수학적으로 보기 좋은 책. 및 자료  등 슬라이드도 오픈되어있음. 
 
 
 ### 해석학 
@@ -135,6 +137,19 @@ John E. Hanke의 경제 예측 입문
 계산경제학과 금융: 모델링 및 분석 (레오니다스 G. 파파니콜라우 저)
 경제학의 수치 방법 (케네스 L. 주드 저)
 경제학을 위한 양적 방법 (SJ 컴비 저)
+
+[케네스 저드 계산경제학](https://kenjudd.org/): 수치해석방법론 부분에서 최적화, 근사, 적분, 수치해석의 기초이론에 대해서 라이브러리를 사용해서 뉴턴랩슨방법 체비세프 방법 등의 대해서 설명일 잘되어있는 교수님 자료
+
+[Heterogeneous Agent모델 등 케인지안 모델 등 ](https://kenjudd.org/) :Benjamin Moll 교수님의 자료실, 소득불평등 , 부의분배, 거시경제 영향등이 데해서 PDE 를통한 연속시간 모델 을 푸는 방법을 설명해주는 자료 
+
+[딥러닝과 거시경제의 베이지안 추정 모델](https://www.sas.upenn.edu/~jesusfv/teaching.html) : High -demensional 경제모델에 있는 차원의저주 문제에 대해서 딥러닝의 적용을 이해하기 좋은 예 
+
+[수치해석의 안정성에 대한 자료](https://www.wouterdenhaan.com/notes.htm) : numerical Stability 의  수렴에서 가지고 있는 오류와 컴퓨터 알고리즘을 분석하는 자료 
+
+[미 거시 문제를 파이썬을 푸는 과정](https://numeconcopenhagen.netlify.app/) : 미시거시 문제를 어떻게 파이썬으로 풀것인가를  설명해주는 자료 
+
+[Computational Economics for Phds](https://floswald.github.io/NumericalMethods/) : Julia의 고성능 연산 기능을 활용해 구조적 노동 경제학(Structural Labor Economics) 모델을 푸는 데 집중
+
 
 ### 게임이론 
 응용 경제학자를 위한 게임 이론 (로버트 S. 기번스 저),
