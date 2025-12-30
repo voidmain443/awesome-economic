@@ -288,6 +288,10 @@ EGT + AI ML , Peplicator Dynamics RL , 경제시스템 규제 제도 허가
 ## 시대적 타임라인에 대한 논쟁 
 --------------------
 
+[방법론 논쟁](01.Methodenstreit.md)
+[사회주의 계산논쟁](02.Socialist_Calculation_Debate.md)
+
+
 ### Class  기반 계급 기반의 자본축적과 계급간의 소득분배
 - 애덤스미스
 - 데이비드 리카도
