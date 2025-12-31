@@ -79,18 +79,22 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 
 - 수학 기초 부분 : https://tutorial.math.lamar.edu/  
 - 삼각함수 기초 : https://www.youtube.com/playlist?list=PLoBaXWXBi2d4g0eTnAvk3lMJdh0CaMvC6
-- 선형대수학: 
+- 선형대수학: [길버트스트랭](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/final-1806-lecture-2023/) 가장 유명하며 직관적이면서, 선형대수의 전체적인 길을 조망해주고, 선형대수를 머리속에 차원과 함께 그림으로 남겨주시는 강의
 - 미적분학: 
-- 해석학: 
 - 대수학: 
 - 수리논리학: 
 
 [convex theory](https://web.stanford.edu/~boyd/cvxbook/) : convex 관련 내용을 선형대수학적으로 수학적으로 보기 좋은 책. 및 자료  등 슬라이드도 오픈되어있음. 
+[Math Prefresher :A short course on the quantitative in social science](https://iqss.github.io/prefresher/): 사회과학을 위한 최소한의 수학 을 [수업](https://prefresher.hsites.harvard.edu/) 으로 열어준 자료 
 
+[미첼 와트의 수학캠프](https://www.mitchellwatt.com/teaching/stanfordmathcamp) : 논리, 집합, 선대 실해석학, 측도록, 볼록해석, 정적최적화오, 최적제어까지 다루는 노트임. 
+
+[Gautam Lyer](https://www.math.cmu.edu/~gautam/sj/teaching/) : 측도부터 다양한 수업 자료들이 많음 . 너무 잘 설명되어있어 좋은 자료 . 
 
 ### 해석학 
 - 해석학 : https://math.hmc.edu/su/math131/
-
+- [시카고 대학교 경제학과 박사 과정 수학 캠프 강의 노트](https://www.chaseabram.com/Notes/Math_Camp___Lecture_Notes__2022_Update_Solution.pdf) : Compactness와 부동점 정리등을 다루고있는 자료, chaseabram의 흥미로운 추천 자료들도 보는 묘미가 있음.
+- [Efe Ok's Course meterials](https://sites.google.com/a/nyu.edu/efeok/) : Real Analysis 를 선호 체계와 연속성 등의 관계를 잘 정리해둔 교재들 , 여러강의자료들이 있어 참고바람. 
 
 ### 계량 경제학 
 입문: 
@@ -233,6 +237,15 @@ John E. Hanke의 경제 예측 입문
 
 
 
+## Network science (statistical Physics) 
+
+- [Statistical Mechanics: Entropy, Order Parameters, and Complexity, Second Edition](https://sethna.lassp.cornell.edu/statistical_mechanics_entropy_order_parameters_and_complexity) 
+- [Albert-László Barabási](http://networksciencebook.com/) : 네트워크 입문서 
+- [Ginestra Bianconi](https://www.ltcc.ac.uk/courses/maximum-entropy-models-of-complex-networks/) : [강의자료](https://qmplus.qmul.ac.uk/course/section.php?id=760255)
+- [Mark Newman](https://websites.umich.edu/~mejn/courses/2017/cscs535/) : 
+- [최적화 및 학습을 위한 통계물리학](https://idephics.github.io/EPFLDoctoralLecture2023/): 학제간연구 담아둔 자료들
+- [introduction to infomation Theory](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory/segments/4325#gsc.tab=0)
+- [Maximum Entropy Methods](https://www.complexityexplorer.org/courses/33-maximum-entropy-methods/segments/3780?summary#gsc.tab=0)
 
 ## Online Resource for Hard Learners 
 -----------------------------
