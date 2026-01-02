@@ -160,6 +160,9 @@ John E. Hanke의 경제 예측 입문
 경매 이론의 실용화 (폴 밀그롬 저),
 양면 매칭: 게임 이론적 모델링 및 분석 연구 (앨빈 로스, 마릴다 소토마요르 공저)
 
+https://people.eecs.berkeley.edu/~venkatg/#teaching
+
+
 
 ### 행동경제학 
 잘못된 행태: 행동경제학의 탄생 (리처드 H. 탈러 저)
