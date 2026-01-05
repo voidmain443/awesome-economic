@@ -256,21 +256,49 @@ https://people.eecs.berkeley.edu/~venkatg/#teaching
 
 
 ## 미국의 패널 및 데이터 베이스 
-PSID : 소득 역학 패널 , 미시간대학교 
-NLS 의 패널조사 : MLSY79, 97  아동 청소년, 청년, 베이버시대와 밀레니얼 시대의 AFQT 인지 기능 검사 부분도 같이 있는 패널조사, 
-HRS : 고령화 연구패널 50세 이상의 패널 
-센서스 랭킹 프로젝트 : FSRDC, IPVMS 결합하여 이민자의 동화과정이나 ,장기사회이동에 대한 연구 진행  title 13 cencus, title 26 irs 의 부분에서 Predominat purpose, Speacial Sworn status 작성하여 데이터 마이크로 데이터 활용가능 
-법률 데이터 베이스 - CAP 연구용으로  Bulk Dataset, Caselaw access Project, Courtlistner , Recap 프로그램으로 PACER의 유료 프로그림을 기업 처산, 특허소송, 기업가치 및 불법행위소송이 어떻게 기업에 영향을 미칠지 분석가능. 
+PSID : 소득 역학 패널 , 미시간대학교 유전적 데이터로, 3대 4대에 걸친 직계가족의 생애주기를 연결할수 있는 장기패널 데이터로 자리잡혀있음. 데이터또한 소득에만 집중하는것이 아닌 ,만성질환 아동발달등의 건강데이터 보건경제학 연구에도 주로쓰이는 실정임.   
+NLS 의 패널조사 : MLSY79, 97  아동 청소년, 청년, 베이버시대와 밀레니얼 시대의 AFQT 인지 기능 검사 부분도 같이 있는 패널조사, AFQT 점수로 국방부 모병 기준시험인 ASVAB 를 응시하고, 개인의 인지능력을 나타내는 인지능력 대리변수로 사용하고있다. 교육의 임금프리임을 주장하력할때는 Ability Bias를 통제할수 있어서 노동경제학 분야에서의 노동력에 대한 패널조사중에서 주요한 내용으로 쓰이는 실정임.   
+
+HRS : 고령화 연구패널 50세 이상의 패널조사, 50세 이상의 미국인을대상으로 2년마다 실시됨, 읜토를 단일 사건이 아닌 건강 악화 
+
+SIPP : 미국 인구조사국(Census Bureau)이 주관하는 SIPP는 월별(Monthly) 단위의 정밀한 소득 및 복지 수급 데이터를 제공한다. 이는 실업 급여, 푸드 스탬프(SNAP) 등 정부 이전 소득 프로그램의 효과를 평가하고 빈곤의 단기 동태를 분석하는 데 최적화되어 있다.
+
+
+센서스 랭킹 프로젝트 : FSRDC, IPVMS 결합하여 이민자의 동화과정이나 ,장기사회이동에 대한 연구 진행  title 13 cencus, title 26 irs 의 부분에서 Predominat purpose, Speacial Sworn status 작성하여 데이터 마이크로 데이터 활용가능 ,Census Linking Project는 1850년부터 1940년까지의 미국 인구 센서스(Decennial Census) 전체를 실명(Name)과 연령 등을 기반으로 연결하여 구축한 거대한 역사적 패널 데이터베이스이다. Abramitzky, Boustan 등의 연구팀이 주도한 이 프로젝트는 과거에는 횡단면으로만 존재했던 센서스 자료를 종단면으로 변환함으로써, 이민자의 동화(Assimilation) 과정이나 100년 이상의 **장기 사회 이동(Long-run Social Mobility)**을 분석할 수 있게 했다. 현대 데이터와의 결합 (FSRDC & Title 13/26) 1940년 이후의 센서스 데이터는 개인정보 보호법에 의해 공개되지 않는다. 하지만 연구자들은 연방통계데이터센터(FSRDC) 내에서 엄격한 보안 서약(Special Sworn Status)을 거친 후, 현대의 센서스 데이터(Title 13)와 국세청(IRS) 세금 기록(Title 26)을 결합할 수 있다. 이때 연구 목적이 통계적 목적(Predominant Purpose)임이 증명되어야 하며, 이를 통해 현대 미국의 소득 불평등과 세대 간 이동성에 대한 가장 정확한 분석이 수행된다.
+
+CPS: 매월 실업률 산출의 기초가 되며, 3월 보충 조사(ASEC)는 미국의 공식 빈곤율과 연간 소득 통계의 원천이다.  
+ACS: 연간 350만 가구라는 방대한 표본을 바탕으로 좁은 지역 단위(Census Tract)의 분석을 가능하게 한다.   
+
+
+
+- 법률 데이터 베이스 - CAP 연구용으로  Bulk Dataset, Caselaw access Project, Courtlistner , Recap 프로그램으로 PACER의 유료 프로그림을 기업 처산, 특허소송, 기업가치 및 불법행위소송이 어떻게 기업에 영향을 미칠지 분석가능. Bulk Dataset 이들 프로젝트는 연구용으로 Bulk Dataset을 제공한다. 연구자들은 이를 활용해 판사의 성향, 반독점 소송의 추이, 환경 규제 판결의 기업 영향 등을 대규모로 계량 분석할 수 있다.
+  - CAP (Harvard Law): 하버드 로스쿨 도서관이 주도하여 미국 역사상 360년 분량의 모든 공개 판례(약 640만 건)를 디지털화한 프로젝트이다. 이를 통해 법원 판결의 역사적 추이를 텍스트 마이닝으로 분석할 수 있다.
+  - CourtListener & RECAP: Free Law Project가 운영하는 CourtListener는 수백만 건의 법원 의견서와 명령을 무료로 제공한다. 특히 RECAP 브라우저 확장은 유료 시스템인 PACER의 문서를 자동으로 수집하여 공유함으로써, 기업 파산, 특허 소송, 불법 행위 소송 등이 기업 가치에 미치는 영향을 분석하는 기업 재무 및 법경제학 연구의 진입 장벽을 획기적으로 낮췄다.
+
+
 Congress Commitee Hearing Dataset -Tone 분석 
-NBER의 New this week :  Working Group 공공경제, 기업 재무, 노동연구 등으로 Summer Seminer 등에서 정보교류할수 있음 
-경기순환판정위원회:   
-연방준비제도 : 이사회- 거시경제정책 FOMC Tealbook의 작성그룹 
-지방연은: FED 세인트 루이스의 FRED 의 API v2를 사용 , 뉴욕 FED  Liberty Street Economics 
-NARS, CBO, GAO,CRS 기관  자료들 
-Oppertunity Insight - 조세 및 사회이동 
-IRP 메디슨 빈곤 연구소 - WADC 행정데이터베이스 빈곤관련데이터 
-SIEPR - industry Data navigator 기술 및 혁신경제학 내용 반영 
-BFI - 계량 연구에 관련된 데이터 
+
+- NBER의 New this week :   New This Week NBER은 단순한 논문 저장소가 아니라 데이터의 허브이다. **'New This Week'**은 매주 발행되는 워킹 페이퍼 목록으로, 노동, 공공경제, 기업 재무 등 각 **워킹 그룹(Working Group)**의 최신 연구 동향을 파악할 수 있는 핵심 채널이다. 또한 Summer Institute 등을 통해 연구자 간의 정보 교류와 데이터 공유가 활발히 일어난다.
+- 경기순환판정위원회: (Business Cycle Dating Committee) NBER 산하의 이 위원회는 미국의 공식적인 경기 침체(Recession)와 확장(Expansion) 국면을 판정한다. GDP, 고용, 소득 등 다양한 지표를 종합하여 경기의 **정점(Peak)**과 저점(Trough) 월을 확정하며, 이 날짜는 모든 거시경제 연구의 기준점이 된다.
+
+- 연방준비제도 : 이사회- 거시경제정책 FOMC Tealbook의 작성그룹 Tealbook 연준 이사회(Board of Governors)가 FOMC 회의를 위해 작성하는 Tealbook은 거시경제 전망을 담은 'Greenbook'과 통화정책 대안을 담은 'Bluebook'이 2010년에 통합된 문서이다. 이 자료는 연준 내부 전문가들의 경제 전망과 정책 판단의 근거를 담고 있으며, 5년의 시차를 두고 대중에 공개되어 통화정책의 결정 과정을 연구하는 데 귀중한 사료가 된다.
+
+- FRED 및 지방 연은 데이터
+  - FRED (St. Louis Fed): 80만 개 이상의 시계열 데이터를 제공하며 API v2를 통해 R, Python 등에서 직접 데이터를 호출할 수 있어 접근성이 매우 높다.
+  - Liberty Street Economics (New York Fed): 뉴욕 연준의 블로그이자 데이터 플랫폼으로, 인플레이션 기대 심리, 가계 부채 등 시의성 높은 정책 분석 데이터와 심층 리포트를 제공한다.
+
+의회 및 정책 데이터 (Political Economy)
+- Congress Committee Hearing Dataset (CoCoHD) 미 의회 위원회 청문회 기록을 집대성한 데이터셋이다. 경제학자들은 이 텍스트 데이터를 활용해 의원들의 발언 톤(Tone) 분석, 정파적 양극화(Polarization) 측정, 그리고 로비 활동이 의사결정에 미치는 영향을 정량적으로 분석한다.
+
+- NARS (국립문서기록관리청): 연방 정부의 영구 기록물을 보관하며, 과거 경제 정책 결정 과정의 1차 사료를 제공한다.
+
+- CBO (의회예산국): 미국의 재정 및 경제 전망 보고서를 발간하며, 재정 정책의 장기 효과 분석에 필수적이다.
+
+- GAO (회계감사원) & CRS (의회조사국): 정부 지출의 효율성 감사 보고서와 입법 관련 심층 분석 자료를 제공하여 공공경제학 연구의 기초 자료로 쓰인다.
+- Oppertunity Insight - 조세 및 사회이동 
+- IRP 메디슨 빈곤 연구소 - WADC 행정데이터베이스 빈곤관련데이터 WADC (행정 데이터 코어) 위스콘신 대학교의 IRP는 빈곤 연구의 메카로 불린다. 이곳의 **Wisconsin Administrative Data Core (WADC)**는 주 정부의 행정 데이터(SNAP, TANF, 실업 보험, 법원 기록 등)를 개인 단위로 연계한 데이터베이스이다. 설문조사의 응답 오차 없이 빈곤 정책의 효과를 분석할 수 있는 가장 강력한 행정 데이터 인프라 중 하나로 꼽힌다.
+- SIEPR - industry Data navigator 기술 및 혁신경제학 내용 반영 , Industry Data Navigator 스탠퍼드 대학의 SIEPR은 Industry Data Navigator를 통해 미국 산업 전반에 걸친 세밀한 데이터를 제공한다. 특히 기술 혁신, 특허, 스타트업 생태계 등 혁신 경제학(Economics of Innovation) 분야의 연구에 필요한 산업별 상세 데이터를 시각화하여 제공한다.
+- BFI - 계량 연구에 관련된 데이터  (베커 프리드먼 연구소): 거시-금융 데이터 시카고 대학의 BFI는 경제학의 시카고 학파 전통을 잇는 연구소로, 특히 계량경제학 및 거시-금융(Macro-finance) 연구를 위한 고품질 데이터를 제공한다. 금융 위기, 자산 가격 결정 모델링 등에 필요한 정제된 데이터셋을 공유한다.
 
 
 
