@@ -250,6 +250,31 @@ https://people.eecs.berkeley.edu/~venkatg/#teaching
 - [introduction to infomation Theory](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory/segments/4325#gsc.tab=0)
 - [Maximum Entropy Methods](https://www.complexityexplorer.org/courses/33-maximum-entropy-methods/segments/3780?summary#gsc.tab=0)
 
+
+## 한국의 패널조사 
+
+
+
+## 미국의 패널 및 데이터 베이스 
+PSID : 소득 역학 패널 , 미시간대학교 
+NLS 의 패널조사 : MLSY79, 97  아동 청소년, 청년, 베이버시대와 밀레니얼 시대의 AFQT 인지 기능 검사 부분도 같이 있는 패널조사, 
+HRS : 고령화 연구패널 50세 이상의 패널 
+센서스 랭킹 프로젝트 : FSRDC, IPVMS 결합하여 이민자의 동화과정이나 ,장기사회이동에 대한 연구 진행  title 13 cencus, title 26 irs 의 부분에서 Predominat purpose, Speacial Sworn status 작성하여 데이터 마이크로 데이터 활용가능 
+법률 데이터 베이스 - CAP 연구용으로  Bulk Dataset, Caselaw access Project, Courtlistner , Recap 프로그램으로 PACER의 유료 프로그림을 기업 처산, 특허소송, 기업가치 및 불법행위소송이 어떻게 기업에 영향을 미칠지 분석가능. 
+Congress Commitee Hearing Dataset -Tone 분석 
+NBER의 New this week :  Working Group 공공경제, 기업 재무, 노동연구 등으로 Summer Seminer 등에서 정보교류할수 있음 
+경기순환판정위원회:   
+연방준비제도 : 이사회- 거시경제정책 FOMC Tealbook의 작성그룹 
+지방연은: FED 세인트 루이스의 FRED 의 API v2를 사용 , 뉴욕 FED  Liberty Street Economics 
+NARS, CBO, GAO,CRS 기관  자료들 
+Oppertunity Insight - 조세 및 사회이동 
+IRP 메디슨 빈곤 연구소 - WADC 행정데이터베이스 빈곤관련데이터 
+SIEPR - industry Data navigator 기술 및 혁신경제학 내용 반영 
+BFI - 계량 연구에 관련된 데이터 
+
+
+
+
 ## Online Resource for Hard Learners 
 -----------------------------
 - [CORE Econ](https://www.core-econ.org/) : 경제학의 실질적 현대적 방식으로 쓰인 고전 텍스트북 에서 벗어난 경재학 교재, 독학하기에도 좋고 데이터를 찾아보면서 근래의 경제학이 풀어야할 문제에 대해서 논의해보기 좋은 프로젝트이다. 각 부분별로 교재를 온라인으로 오픈되어있어 다시금 경제학을 배운다면 꼭 볼 소스 
@@ -393,6 +418,9 @@ Mathiness 논쟁의 영역으로, 폴로머와 다양한학자들의 비판처�
 작은 파란책( 엘리자베스 웰링) 
 
 https://george-lakoff.com/books/
+
+
+
 
 
 ### 프로젝트 매니징 추천 책
