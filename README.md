@@ -129,6 +129,9 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 , 키이스 필빔 저, 『경제와 금융 시장』
 
 ### 경제 예측 시계열등 
+파이썬으로 모델링하기 : https://allendowney.github.io/ModSimPy/index.html
+
+
 Rob J. Hyndman과 George Athanasopoulos의 예측: 원칙과 실제
 Walter Enders의 응용 계량경제 시계열 분석
 Graham Elliott, Clive W.J. Granger, Allan Timmermann의 경제예측
@@ -300,7 +303,7 @@ Congress Commitee Hearing Dataset -Tone 분석
 - SIEPR - industry Data navigator 기술 및 혁신경제학 내용 반영 , Industry Data Navigator 스탠퍼드 대학의 SIEPR은 Industry Data Navigator를 통해 미국 산업 전반에 걸친 세밀한 데이터를 제공한다. 특히 기술 혁신, 특허, 스타트업 생태계 등 혁신 경제학(Economics of Innovation) 분야의 연구에 필요한 산업별 상세 데이터를 시각화하여 제공한다.
 - BFI - 계량 연구에 관련된 데이터  (베커 프리드먼 연구소): 거시-금융 데이터 시카고 대학의 BFI는 경제학의 시카고 학파 전통을 잇는 연구소로, 특히 계량경제학 및 거시-금융(Macro-finance) 연구를 위한 고품질 데이터를 제공한다. 금융 위기, 자산 가격 결정 모델링 등에 필요한 정제된 데이터셋을 공유한다.
 
-
+- 보건의료 빅데이터개방시스템 (한국 한정)https://opendata.hira.or.kr/home.do 
 
 
 ## Online Resource for Hard Learners 
@@ -353,6 +356,12 @@ Congress Commitee Hearing Dataset -Tone 분석
 EGT + AI ML , Peplicator Dynamics RL , 경제시스템 규제 제도 허가 
 
 협업의 딜레마 
+
+### DEEP LEARNING FOR ECONOMICS 
+딥러닝 논문 추려읽기  : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap?tab=readme-ov-file
+트렌스포머 추려읽기 : https://github.com/NielsRogge/Transformers-Tutorials
+
+
 
 ## 시대적 타임라인에 대한 논쟁 
 --------------------
@@ -481,6 +490,16 @@ https://george-lakoff.com/books/
 - Waltzing with Bears : 리스크의 현실적 분석을 어떻게 사용해야하는지 리스크를 가지고 가는것의 의미가 무엇인지를 논하는 책
 - Gamestorming : 실제 팀 빌딩이후에 어떻게 워크숍을 구성할것인지, 팀원들과의 툴을 통해서 어떻게 소통해나갈것인지 보여주는 좋은 책
 - 정주영의 경영론 책들 : 정주영 회장의 리스크 관리에 대해서 한국의 재벌주의과정에서 어떤 것을 프로젝트가 요구받았는지 과거를 알아볼 수 있는 좋은책
+
+
+### UI UX 자료 들 및 기획 공부 자료 
+ ux 리서치 자료 : https://upa.userspoon.com/
+ 
+From designer 스터디 노션 링크 : https://www.notion.so/fromdesigner/UXUI-46fb95854d09499aa8c798bc67cbc414
+
+서비스 기획 유세균 님 자료 : https://www.slideshare.net/germweapon
+
+
 
 ### 한국식 프로젝트 관리론 사이트 및 아카이브 
 - KDI 경제발전사 아카이브: [국가기록원](https://theme.archives.go.kr/next/economicDevelopment/viewMain.do)에도 있고 한국 전자서비스가 잘되어있어서 https://www.kdevelopedia.org/ 에서 봐도 되는 부분이다. 주로 한국의 경제개발 5주년과 왜 한국이 이렇게 빨리 성장동력이 있었는지 경제견인에 대해서 다양한자료를 한국이 발간하므로 KDI 뿐만 아니라검색 통해서 알아가보면 좋을것같다. 
