@@ -80,6 +80,9 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 - 수학 기초 부분 : https://tutorial.math.lamar.edu/  
 - 삼각함수 기초 : https://www.youtube.com/playlist?list=PLoBaXWXBi2d4g0eTnAvk3lMJdh0CaMvC6
 - 선형대수학: [길버트스트랭](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/final-1806-lecture-2023/) 가장 유명하며 직관적이면서, 선형대수의 전체적인 길을 조망해주고, 선형대수를 머리속에 차원과 함께 그림으로 남겨주시는 강의
+  - https://personal.math.vt.edu/embree/cmda3606/
+  - https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf : SVD에 대한 power method에 대해서 논의하는 자료 
+- 
 - 미적분학: 
 - 대수학: 
 - 수리논리학: 
@@ -456,7 +459,37 @@ Mathiness 논쟁의 영역으로, 폴로머와 다양한학자들의 비판처�
 
 https://george-lakoff.com/books/
 
-
+### 경제학 읽어볼 책들 추천 
+1. 『통치론』, 존 로크
+2. 『정치론』, 데이비드 흄
+3. 『도덕감정론』, 애덤 스미스
+4. 『정치경제학의 원리에 대한 연구』, 제임스 데넘 스튜어트
+5. 『국부론』, 애덤 스미스
+6. 『정치경제학 및 과세의 원리』, 데이비드 리카도
+7. 『정치경제학의 국민적 체계』, 프리드리히 리스트
+8. 『정치경제학의 원리』, 존 밀
+9. 『자본론』, 칼 마르크스
+10. 『순수경제학 요론』, 마리 발라
+11. 『유한계급론』, 소스타인 베블런
+12. 『유대인과 경제 생활』, 베르너 좀바르트
+13. 『경제발전의 이론』, 조지프 슘페터
+14. 『산업과 무역』, 앨프레드 마셜
+15. 『위험, 불확실성 및 이윤』, 프랭크 나이트
+16. 『국민경제학의 기본원리』, 카를 멩거
+17. 『경제학의 본질과 의의에 관한 소론』, 라이오넬 로빈스
+18. 『현대 기업과 사유재산』, 아돌프 벌·가드너 민즈
+19. 『고용, 이자, 화폐의 일반이론』, 존 케인스
+20. 『거대한 전환』, 칼 폴라니
+21. 『경제분석의 기초』, 폴 새뮤얼슨
+22. 『젊은 날의 신조』, 존 케인스
+23. 『과학의 반혁명』, 프리드리히 하이에크
+24. 『풍요한 사회』, 존 갤브레이스
+25. 『자유헌정론』, 프리드리히 하이에크
+26. 『자본주의와 자유』, 밀턴 프리드먼
+27. 『단절의 시대』, 피터 드러커
+28. 『소비의 사회』, 장 보드리야르
+29. 『정의론』, 존 롤스
+30. 『불평등의 재검토』, 아마르티아 센
 
 
 
@@ -499,7 +532,66 @@ From designer 스터디 노션 링크 : https://www.notion.so/fromdesigner/UXUI-
 
 서비스 기획 유세균 님 자료 : https://www.slideshare.net/germweapon
 
+백엔드 및 관리자 기획 참고 자료 
 
+카페24 관리자
+https://serviceguide.cafe24.com/ko_KR/
+
+하이센스 3.0
+http://responsive-food.onedaynet.co.kr/totalAdmin/_main.php
+
+가비아
+https://gdokplus.firstmall.kr/admin/main/index
+
+해피팬션예약
+http://pension3.cgimall.co.kr/admin/index.php
+
+메타커머스
+https://demo-admin.meta-commerce.co.kr/store/main
+
+EMS플러스
+https://pics.esmplus.com/front/Manual/SellerGuide2/officialSeller.html
+
+롯데ON
+https://support.lotteon.com/manual
+
+POS
+https://expos.co.kr/manual_new/clor/0.3/Newtopic.html
+
+
+- 국내 모바일
+-[https://wwit.design](https://wwit.design/)
+-https://designus.io/reference
+- 국내 PC+모바일
+-[http://www.gdweb.co.kr](http://www.gdweb.co.kr/)
+-[http://www.i-award.or.kr](http://www.i-award.or.kr/)
+-[https://www.dbcut.com](https://www.dbcut.com/)
+-[http://dbdic.co.kr](http://dbdic.co.kr/)
+-[http://rwdb.kr](http://rwdb.kr/)
+- 해외
+-[https://cssdesignawards.com](https://cssdesignawards.com/)
+-[https://www.awwwards.com](https://www.awwwards.com/)
+-mobbin.design/browse/ios/apps
+-https://screenlane.com/?ref=uimovement
+-[https://appshots.design](https://appshots.design/)
+- 인터렉션
+-[https://pageflows.com](https://pageflows.com/)
+-https://codepen.io/search/pens?q=interaction&page=1&order=popularity&depth=everything
+- UX
+- https://diby.io/upa
+-[https://www.behance.net](https://www.behance.net/)
+-[https://mobbin.design](https://mobbin.design/)
+-[https://pttrns.com](https://pttrns.com/)
+-[https://dribbble.com](https://dribbble.com/)
+- UI
+- [https://uibowl.io](https://uibowl.io/)
+-[http://uimovement.com](http://uimovement.com/)
+-[https://www.uidesigndaily.com](https://www.uidesigndaily.com/)
+- [https://www.landingfolio.com](https://www.landingfolio.com/)
+-https://www.themasterpicks.com/the-best-mobile-ui-interactions
+- 키오스크 UI https://www.figmapedia.com/138d9629-23c0-4714-8f85-334459331f02
+
+- 
 
 ### 한국식 프로젝트 관리론 사이트 및 아카이브 
 - KDI 경제발전사 아카이브: [국가기록원](https://theme.archives.go.kr/next/economicDevelopment/viewMain.do)에도 있고 한국 전자서비스가 잘되어있어서 https://www.kdevelopedia.org/ 에서 봐도 되는 부분이다. 주로 한국의 경제개발 5주년과 왜 한국이 이렇게 빨리 성장동력이 있었는지 경제견인에 대해서 다양한자료를 한국이 발간하므로 KDI 뿐만 아니라검색 통해서 알아가보면 좋을것같다. 
