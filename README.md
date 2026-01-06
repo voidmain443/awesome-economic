@@ -38,7 +38,7 @@ A curated list of awesome academic economics resources, from foundational princi
 
 ### 경제학원론 
 - 현대 경제학 원론 3인공저 -> 이후 nth 판 : 표지가 빨간 시대의 책을 1학년부터 4학년때가지 끼고 있었는데, 중심을 잘 잡게 도와준 책 
-
+- https://openstax.org/
 
 
 ### 미시경제학 
@@ -54,6 +54,10 @@ A curated list of awesome academic economics resources, from foundational princi
 
 ### 거시경제학 
 거시부분의 공부는 현재 내가 부족해서 정확히 말하기 어려워 주변에 자문을 구해 작성하였음. 거시쪽은 내전공이랑은 조금 거리가 멀고 연구주제에 있어 흥미가 많지 않아 주변인의 사견을 담아 이야기하자면, 
+
+- 박응용교수님의 거시경제학 노트 참고 
+
+
 거시경제학 텍스트는 아마도 [Stockey와 Lucas with Prescott](https://www.hup.harvard.edu/catalog.php?isbn=9780674750968) 또는 [Sargent와 Ljungqvist](https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/)으로 요즘쓰인다고 하며,  그러나 거시경제학 핵심 커리큘럼은 미시경제학 커리큘럼보다 훨씬 덜 표준화되어 있기에 각 각론에 좀더 집중하는것이 좋다는 의견이 많았음. 
 Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보충교재로 사용가능함. 
 - Romer, Advanced Macroeconomics; 또한 Campante, Sturzenegger 및 Velasco, Advanced Macroeconomics - an easy guide (LSE Press에서 무료로 다운로드 가능: [링크)](https://press.lse.ac.uk/site/books/m/10.31389/lsepress.ame/)
@@ -71,19 +75,27 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 - 데종과 데이브, *구조적 거시경제학*
 
 ### 경제수학 
-- 김성현 저 경제수학강의 nth 판  : Pre course 형태로 대학에 들어가기전에 경제수학을 독학할 수 있도록 해주는 좋은 교재, 만약 이공계가 아니라서 고등학교때 수학을 약하게 공부했다면, 최소한의 지식으로 방학때 Camp 형식으로 공부하고 대학에 입학하는것이 중요해보인다. 대학교 경제학이 다룰 대부분의 편미분 부터 선형대수 일부를 커버하지만, 해석학적 내용이나 게임이론의 적용 자체는 어려운상태로 고등학교를 졸업하고,AP 수업을 듣거나할 때 좋을 것 같다. 1학년때 2판을 사용했다.   
- Hoy 외, 경제학을 위한 수학
+- 김성현 저 경제수학강의 nth 판  : Pre course 형태로 대학에 들어가기전에 경제수학을 독학할 수 있도록 해주는 좋은 교재, 만약 이공계가 아니라서 고등학교때 수학을 약하게 공부했다면, 최소한의 지식으로 방학때 Camp 형식으로 공부하고 대학에 입학하는것이 중요해보인다. 대학교 경제학이 다룰 대부분의 편미분 부터 선형대수 일부를 커버하지만, 해석학적 내용이나 게임이론의 적용 자체는 어려운상태로 고등학교를 졸업하고,AP 수업을 듣거나할 때 좋을 것 같다. 1학년때 2판을 사용했다.
+만약 미적분이 부족하다면 미적분 고등학교 교재를 보고 올라오는게 좋다. 
+
+- Hoy 외, 경제학을 위한 수학
 
 [math204](https://eml.berkeley.edu/~cshannon/) : 수학을 증명 등 좋은 렉쳐 노트 해석학적 가미 가있음. 
 
 
-- 수학 기초 부분 : https://tutorial.math.lamar.edu/  
+- 수학 기초 부분 : https://tutorial.math.lamar.edu/
+- 대학수학 독학 가이드 : https://undergroundmathematics.org/ , https://courses.maths.ox.ac.uk/
 - 삼각함수 기초 : https://www.youtube.com/playlist?list=PLoBaXWXBi2d4g0eTnAvk3lMJdh0CaMvC6
 - 선형대수학: [길버트스트랭](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/final-1806-lecture-2023/) 가장 유명하며 직관적이면서, 선형대수의 전체적인 길을 조망해주고, 선형대수를 머리속에 차원과 함께 그림으로 남겨주시는 강의
+  - https://courses.maths.ox.ac.uk/pluginfile.php/15728/mod_folder/content/0/All%20Lectures.pdf
   - https://personal.math.vt.edu/embree/cmda3606/
-  - https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf : SVD에 대한 power method에 대해서 논의하는 자료 
+  - https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf : SVD에 대한 power method에 대해서 논의하는 자료
+  - 한양대학교 이상화 교수 2013년 선형대수학 재생목록 확인하여 Kocw 에서 확인해보기
+  - 
 - 
-- 미적분학: 
+- 미적분학:
+-  미분방정식:  6일만에끝내는 미분방정식 김경률 저 , 가장 쉽게 일단 미방이 뭔지 알려주는 책
+-  시계열 : 한양대학교 시계열강의 2013년 강의듣기 , 김명직 교수님 책으로 계량 및 시계열 주제 공부하기 좋음 
 - 대수학: 
 - 수리논리학: 
 
@@ -94,13 +106,23 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 
 [Gautam Lyer](https://www.math.cmu.edu/~gautam/sj/teaching/) : 측도부터 다양한 수업 자료들이 많음 . 너무 잘 설명되어있어 좋은 자료 . 
 
+https://www.math.utah.edu/lectures/
+
+
+
 ### 해석학 
 - 해석학 : https://math.hmc.edu/su/math131/
 - [시카고 대학교 경제학과 박사 과정 수학 캠프 강의 노트](https://www.chaseabram.com/Notes/Math_Camp___Lecture_Notes__2022_Update_Solution.pdf) : Compactness와 부동점 정리등을 다루고있는 자료, chaseabram의 흥미로운 추천 자료들도 보는 묘미가 있음.
 - [Efe Ok's Course meterials](https://sites.google.com/a/nyu.edu/efeok/) : Real Analysis 를 선호 체계와 연속성 등의 관계를 잘 정리해둔 교재들 , 여러강의자료들이 있어 참고바람. 
 
+https://m.blog.naver.com/sodong212/130172822455
+
+
 ### 계량 경제학 
 입문: 
+김총락: 수리통계학 부분 kocw 에서 김충락 교수의 자료들이 있어 쉽게 가르친다, 
+이화여대 이진 교수님  kocw 강의 : 계량 수업 올라와 있는 것을 듣자. 
+
 제프리 M. 울드리지의 『계량경제학 입문: 현대적 접근법』,
 모리스 H. 드그루트와 마크 J. 셔비쉬
 의 『확률과 통계』, 아서 S. 골드버거의
@@ -147,6 +169,8 @@ John E. Hanke의 경제 예측 입문
 계산경제학과 금융: 모델링 및 분석 (레오니다스 G. 파파니콜라우 저)
 경제학의 수치 방법 (케네스 L. 주드 저)
 경제학을 위한 양적 방법 (SJ 컴비 저)
+- https://www.youtube.com/@fedoriskhakov6426/courses
+- 
 
 [케네스 저드 계산경제학](https://kenjudd.org/): 수치해석방법론 부분에서 최적화, 근사, 적분, 수치해석의 기초이론에 대해서 라이브러리를 사용해서 뉴턴랩슨방법 체비세프 방법 등의 대해서 설명일 잘되어있는 교수님 자료
 
@@ -155,10 +179,16 @@ John E. Hanke의 경제 예측 입문
 [딥러닝과 거시경제의 베이지안 추정 모델](https://www.sas.upenn.edu/~jesusfv/teaching.html) : High -demensional 경제모델에 있는 차원의저주 문제에 대해서 딥러닝의 적용을 이해하기 좋은 예 
 
 [수치해석의 안정성에 대한 자료](https://www.wouterdenhaan.com/notes.htm) : numerical Stability 의  수렴에서 가지고 있는 오류와 컴퓨터 알고리즘을 분석하는 자료 
-
+v
 [미 거시 문제를 파이썬을 푸는 과정](https://numeconcopenhagen.netlify.app/) : 미시거시 문제를 어떻게 파이썬으로 풀것인가를  설명해주는 자료 
 
 [Computational Economics for Phds](https://floswald.github.io/NumericalMethods/) : Julia의 고성능 연산 기능을 활용해 구조적 노동 경제학(Structural Labor Economics) 모델을 푸는 데 집중
+
+
+### 금융경제학
+[asset pricing book](http://sylvainletoulousain.chez-alice.fr/download/finbook.pdf)
+
+
 
 
 ### 게임이론 
@@ -218,6 +248,7 @@ https://people.eecs.berkeley.edu/~venkatg/#teaching
 벨플람과 페이츠의 산업조직론 : 시장과 전략 
 모타의 경제정책:  이론 구체화 및 정책문제에서의 사용 
 가르세스, 데이비스 경쟁및 반독점 분석을 위한 양적 기법 : 경쟁 반독점관련 내용 깊이 있게 공부가능 
+https://edirc.repec.org/indecon.html
 
 
 ### 에너지 경제론 
@@ -243,7 +274,7 @@ https://people.eecs.berkeley.edu/~venkatg/#teaching
 - Python 기반 시뮬레이션 공부자료 BPTK-Py  : https://bptk.transentis.com/  
 - 시스테 다이내믹스 가이드 : https://pressbooks.lib.jmu.edu/sdlearningguide/  
 - Vensim 가이드 : https://vensim.com/  
-
+- 컴퓨터 인포메이션 영역의 온톨로지 구축 내용 확인 : https://figshare.com/categories/Information_And_Computing_Sciences/52?categories=185
 
 
 ## Network science (statistical Physics) 
@@ -323,6 +354,9 @@ Congress Commitee Hearing Dataset -Tone 분석
 
 - https://docs.jupyter.org/en/latest/
 
+- https://m.blog.naver.com/dongjikim/222225609695
+- 그래프 이론 ;https://people.orie.cornell.edu/dpw/orie6334/Fall2016/
+
 ## Papers and books you must Read (P&BUMR) 
 ------------------------
 - Daniel Hausman, The Philosophy of Economics: An Anthology (2007): 밀, 로빈스, 프리드먼부터 현대 방법론까지 경제철학의 핵심 원전들을 망라한 필수 앤솔로지.
@@ -363,6 +397,18 @@ EGT + AI ML , Peplicator Dynamics RL , 경제시스템 규제 제도 허가
 ### DEEP LEARNING FOR ECONOMICS 
 딥러닝 논문 추려읽기  : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap?tab=readme-ov-file
 트렌스포머 추려읽기 : https://github.com/NielsRogge/Transformers-Tutorials
+https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide?fbclid=IwAR2oBEqFa-FurZ2yQYUiw4ulzpKgTieifxAVvXLwnfDGwEOqnl4MrOlT6-s_aem_ASp1nmOiVmfCxLgTZ77LFQDkNOfTjNRidlMYH6W2CuyDkYOpMQM73C7qeUbL5WYLA2Y&mibextid=Zxz2cZ
+CNN 동작 방식 hands on: 가장 실제적으로 어떻게 기술을 사용하는지 재미있게 따라했던 블로그 https://navoshta.com/traffic-signs-classification/
+
+
+
+### 컴퓨터 공학 내용 ( 계량과, 계산경제 위해서 공부했던 자료들)
+
+https://cstack.github.io/db_tutorial/ - 데이터베이스가 어떻게 동작하는지 알수 있는 자료 
+
+[https://goidle.github.io/](https://goidle.github.io/react/in-depth-react-intro/)
+
+[무선통신 기초](http://www.rfdh.com/bas_com.htm)
 
 
 
@@ -558,6 +604,21 @@ https://support.lotteon.com/manual
 POS
 https://expos.co.kr/manual_new/clor/0.3/Newtopic.html
 
+심리학 책 읽은것 정리 
+
+- 상담심리학 : 상담심리학의 이론과 실제 학지사 노인영 2018, 상담심리학의 이론과 실제 동문사 김종운 2019
+- 발달심리학 : 발달심리학 학지사 신명희 2017, 발달심리 교육아카데미 이선경 2011
+- 학습심리학 : 학습심리학 시그마프레스 이나경 2018
+- 이상심리학 :﻿이상심리학의 기초 학지사 권석만 2014 사례중심의
+- 심리검사 : 심리평가의 실제 하나의학사 박영숙 1998, 심리평가의 최신 흐름 학지사 이우경 2019
+- 상담이론 : 상담심리학의 이론과 실제 학지사 노인영 2018, 상담심리학의 이론과 실제 동문사 김종운 2019
+- 집단상담 : 집단상담 과정과 실제 CENGAGELEARNING 2019, 집단상담 중앙적성출판사 이형득 2002
+- 학습과 발달 : 학습심리학 시그마프레스 이나경 2018 발달심리학 학지사 신명희 2017, 발달심리 교육아카데미 이선경 2011
+- 성격과 정신건강 :﻿이상심리학의 기초 학지사 권석만 2014 성격심리학 학지사 노안영 2018
+- 심리검사 : 심리평가의 실제 하나의학사 박영숙 1998, 심리평가의 최신 흐름 학지사 이우경 2019
+- 가족상담 : 가족상담 학지사 김유숙 2015, 가족상담 및 치료 공동체 최규련 2012
+- 진로상담 : 진로상담의 이론과 실제 김봉환 학지사 2019
+- 로흐샤샤 검사 컴퓨터로 하기 : https://www.rorschach-institute.org/download%20_chessss1.html  어렵지만 임상심리사 2급 공부하면서 찾은 툴 
 
 - 국내 모바일
 -[https://wwit.design](https://wwit.design/)
