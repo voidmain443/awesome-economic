@@ -31,10 +31,13 @@ A curated list of awesome academic economics resources, from foundational princi
 - Economical Writing, Third Edition :  설득을 위한 글을 쓰기 위한 책 어떻게 글을 써야 사람들이 쉽게 이해할지에 대해서 고민일 때 ,나의 아이디어를 어떻게 쉽게 이해할수 있게 전달할지 고민될 때 쓰는 책 
 - Style: Lessons in Clarity and Grace (Joseph M. Williams) : 인지심리학으로 어떻게 문장을 사람들이 어렵게 느끼는징 대해서 분석한 책, 경제학으로의 책들이 주로 가지는 Nominaliztion 형태의 글쓰기가 왜 일반인들이 이해하기 어려운지 설명한 책, 대체적으로 이책은 대화할때 조금이라도 사람들이 이해하게 하기 위해서 읽고 스스로의 말하기를 바꾸기 좋은 책.   
 
+- connected Papers : https://www.connectedpapers.com/
+- 
 
 - [TIKZ for Latex](https://kochiuyu.github.io/tikz/tikz-cookbook/) : TIKZ로 아직 그림을 그리는사람들이 있다. 조교 및 LAtex으로 이미 작성되어있는 표등을 수정해야할때, 파이썬으러 하는사람들도 생기지만 아직 많이쓰는 Latex용 사고시각화 연습용 Cookbook.  
 - beamer 사용법 책 - 
 
+- esl lounge : https://www.esl-lounge.com/student/
 
 ### 경제학원론 
 - 현대 경제학 원론 3인공저 -> 이후 nth 판 : 표지가 빨간 시대의 책을 1학년부터 4학년때가지 끼고 있었는데, 중심을 잘 잡게 도와준 책 
@@ -108,7 +111,7 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 
 https://www.math.utah.edu/lectures/
 
-
+- 기초통계학 : https://seeing-theory.brown.edu/basic-probability/index.html
 
 ### 해석학 
 - 해석학 : https://math.hmc.edu/su/math131/
@@ -185,11 +188,17 @@ v
 [Computational Economics for Phds](https://floswald.github.io/NumericalMethods/) : Julia의 고성능 연산 기능을 활용해 구조적 노동 경제학(Structural Labor Economics) 모델을 푸는 데 집중
 
 
-### 금융경제학
+### 금융경제학c
 [asset pricing book](http://sylvainletoulousain.chez-alice.fr/download/finbook.pdf)
 
-
-
+- [QuantStats](https://github.com/ranaroussi/quantstats) : 
+- [Part time Larry](https://www.youtube.com/c/parttimelarry):
+- [quantpy](https://www.youtube.com/channel/UClT4BTqePQDxFHsnrSWQ8Wg):
+- [Carol ALexander](https://www.coalexander.com/)
+- [quantPedia](https://quantpedia.com/)
+- https://hkopp.github.io/
+- https://alphascientist.com/
+- https://osm.netlify.app/
 
 ### 게임이론 
 응용 경제학자를 위한 게임 이론 (로버트 S. 기번스 저),
@@ -399,7 +408,8 @@ EGT + AI ML , Peplicator Dynamics RL , 경제시스템 규제 제도 허가
 트렌스포머 추려읽기 : https://github.com/NielsRogge/Transformers-Tutorials
 https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide?fbclid=IwAR2oBEqFa-FurZ2yQYUiw4ulzpKgTieifxAVvXLwnfDGwEOqnl4MrOlT6-s_aem_ASp1nmOiVmfCxLgTZ77LFQDkNOfTjNRidlMYH6W2CuyDkYOpMQM73C7qeUbL5WYLA2Y&mibextid=Zxz2cZ
 CNN 동작 방식 hands on: 가장 실제적으로 어떻게 기술을 사용하는지 재미있게 따라했던 블로그 https://navoshta.com/traffic-signs-classification/
-
+- The full stack : https://fullstackdeeplearning.com/
+- 
 
 
 ### 컴퓨터 공학 내용 ( 계량과, 계산경제 위해서 공부했던 자료들)
@@ -410,6 +420,13 @@ https://cstack.github.io/db_tutorial/ - 데이터베이스가 어떻게 동작�
 
 [무선통신 기초](http://www.rfdh.com/bas_com.htm)
 
+[asahi linux](https://www.youtube.com/@marcan42/videos) 
+
+[complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) 
+
+[메모리 프로파일러](https://github.com/bloomberg/memray) 
+
+[tcp ip 송수신원리](https://www.youtube.com/watch?v=K9L9YZhEjC0)
 
 
 ## 시대적 타임라인에 대한 논쟁 
