@@ -295,7 +295,7 @@ https://edirc.repec.org/indecon.html
 - [최적화 및 학습을 위한 통계물리학](https://idephics.github.io/EPFLDoctoralLecture2023/): 학제간연구 담아둔 자료들
 - [introduction to infomation Theory](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory/segments/4325#gsc.tab=0)
 - [Maximum Entropy Methods](https://www.complexityexplorer.org/courses/33-maximum-entropy-methods/segments/3780?summary#gsc.tab=0)
-
+- network science in economics with Matthew O. jackson -https://web.stanford.edu/~jacksonm/
 
 ## 한국의 패널조사 
 
@@ -428,6 +428,8 @@ https://cstack.github.io/db_tutorial/ - 데이터베이스가 어떻게 동작�
 
 [tcp ip 송수신원리](https://www.youtube.com/watch?v=K9L9YZhEjC0)
 
+
+[기계학습 기초부터 학습하기]( https://karpathy.ai/zero-to-hero.html)
 
 ## 시대적 타임라인에 대한 논쟁 
 --------------------
