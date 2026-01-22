@@ -32,7 +32,9 @@ A curated list of awesome academic economics resources, from foundational princi
 - Style: Lessons in Clarity and Grace (Joseph M. Williams) : 인지심리학으로 어떻게 문장을 사람들이 어렵게 느끼는징 대해서 분석한 책, 경제학으로의 책들이 주로 가지는 Nominaliztion 형태의 글쓰기가 왜 일반인들이 이해하기 어려운지 설명한 책, 대체적으로 이책은 대화할때 조금이라도 사람들이 이해하게 하기 위해서 읽고 스스로의 말하기를 바꾸기 좋은 책.   
 
 - connected Papers : https://www.connectedpapers.com/
-- 
+- https://home.ewha.ac.kr/~oookwhan/essay/essay2-toyoung.htm
+- https://sites.google.com/view/econgradadvice/
+- https://arielrubinstein.tau.ac.il/papers/10QA.pdf
 
 - [TIKZ for Latex](https://kochiuyu.github.io/tikz/tikz-cookbook/) : TIKZ로 아직 그림을 그리는사람들이 있다. 조교 및 LAtex으로 이미 작성되어있는 표등을 수정해야할때, 파이썬으러 하는사람들도 생기지만 아직 많이쓰는 Latex용 사고시각화 연습용 Cookbook.  
 - beamer 사용법 책 - 
