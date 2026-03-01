@@ -86,7 +86,7 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
 - Hoy 외, 경제학을 위한 수학
 
 [math204](https://eml.berkeley.edu/~cshannon/) : 수학을 증명 등 좋은 렉쳐 노트 해석학적 가미 가있음. 
-
+https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
 - 수학 기초 부분 : https://tutorial.math.lamar.edu/
 - 대학수학 독학 가이드 : https://undergroundmathematics.org/ , https://courses.maths.ox.ac.uk/
@@ -99,6 +99,10 @@ Barro, 경제순환론 ㄷ응 Sargent 거시경제 의 수학적 방법론 보�
   - 
 - 
 - 미적분학:
+- https://github.com/chaklam-silpasuwanchai/Calculus/tree/main/PDF : 스튜어트 미적분학 8판 내용
+- https://jverzani.github.io/CalculusWithJuliaNotes.jl/ 줄리아로 하는 미적분학
+- https://github.com/LucaAmbrogioni/CalculusTeachingMaterial/blob/master/Lectures/Lecture%206%2C%20Techniques%20for%20solving%20integrals.ipynb 적분 공식들
+-  온라인 교재 ; https://ximera.osu.edu/mooculus
 -  미분방정식:  6일만에끝내는 미분방정식 김경률 저 , 가장 쉽게 일단 미방이 뭔지 알려주는 책
 -  시계열 : 한양대학교 시계열강의 2013년 강의듣기 , 김명직 교수님 책으로 계량 및 시계열 주제 공부하기 좋음 
 - 대수학: 
@@ -158,9 +162,11 @@ https://m.blog.naver.com/sodong212/130172822455
 에페 A. 오크 저, 『 경제 및 금융: 실증 분석과 경제 응용』
 , 키이스 필빔 저, 『경제와 금융 시장』
 
+https://github.com/amitkaps/hackermath
+
 ### 경제 예측 시계열등 
 파이썬으로 모델링하기 : https://allendowney.github.io/ModSimPy/index.html
-
+https://github.com/jonkrohn/ML-foundations/tree/master
 
 Rob J. Hyndman과 George Athanasopoulos의 예측: 원칙과 실제
 Walter Enders의 응용 계량경제 시계열 분석
